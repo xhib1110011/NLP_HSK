@@ -1,54 +1,174 @@
 # HSK AI Tutor
 
-Ứng dụng Streamlit luyện tiếng Trung theo cấp HSK. App dùng Ollama để sinh câu hỏi khi người quản lý nạp kho; người học lấy câu hỏi đã có trong kho SQLite.
+**HSK AI Tutor** is an AI-powered Chinese language learning application built with Streamlit. It provides practice questions across all six HSK levels, helping learners improve their Chinese language proficiency through structured exercises.
 
-## Chạy ứng dụng
+The application uses **Ollama (LLM)** to generate questions and **SQLite** to manage the question bank and user learning data.
+
+## Features
+
+- **Six HSK Levels:** Supports learning and practicing from HSK 1 to HSK 6.
+- **AI-generated Questions:** Uses locally hosted LLMs through Ollama to generate practice questions.
+- **Question Bank Management:** Stores generated questions in SQLite and exports them into JSON files for synchronization.
+- **Question Retrieval:** Learners access existing questions from the shared question bank without requiring Ollama.
+- **User Data Management:** Stores user accounts and learning history locally in SQLite.
+- **Data Synchronization:** Supports importing and exporting question banks between different machines through JSON files and GitHub.
+
+## System Architecture
+
+The application consists of three main components:
+
+| Component | Technology | Purpose |
+|---|---|---|
+| User Interface | Streamlit | Provides the learning interface |
+| AI Question Generation | Ollama / LLM | Generates HSK practice questions |
+| Data Storage | SQLite + JSON | Stores user data and synchronizes question banks |
+
+**Workflow:**
+
+1. The administrator generates questions using Ollama.
+2. Generated questions are validated and saved to the local SQLite database.
+3. The question bank is exported into JSON files.
+4. JSON files are committed and pushed to GitHub.
+5. Other machines pull the latest question bank and import it into their local SQLite databases.
+6. Learners practice using the available questions.
+
+## Installation and Usage
+
+### 1. Run the Application
+
+Activate the project's virtual environment and launch Streamlit:
 
 ```powershell
 .\.venv\Scripts\python.exe -m streamlit run .\NLP\app.py
 ```
 
-## Tạo và đồng bộ kho câu hỏi
+### 2. Generate Questions (Administrator)
 
-Sinh câu hỏi trên máy đã cài/chạy Ollama. `build_question_bank.py` lưu câu hỏi vào SQLite cục bộ và tự xuất kho cấp đó ra `NLP/data/question_bank/hsk_<cấp>.json` sau mỗi lượt lưu:
+Question generation requires Ollama to be installed and running on the administrator's machine.
+
+To generate 20 questions for HSK Level 3:
 
 ```powershell
 .\.venv\Scripts\python.exe .\NLP\build_question_bank.py --level 3 --target 20
 ```
 
-Sau khi sinh xong, kiểm tra thay đổi rồi commit JSON lên GitHub:
+The generated questions are:
+- Saved to the local SQLite database.
+- Automatically exported to the corresponding JSON file after each save operation.
 
-```powershell
-git status
-git add .\NLP\data\question_bank\hsk_3.json
-git commit -m "Add HSK 3 question bank"
-git push
+Question bank files are located at:
+
+```text
+NLP/data/question_bank/
+├── hsk_1.json
+├── hsk_2.json
+├── hsk_3.json
+├── hsk_4.json
+├── hsk_5.json
+└── hsk_6.json
 ```
 
-Nếu đã nạp câu hỏi trực tiếp vào SQLite và muốn xuất lại thủ công:
+### 3. Synchronize the Question Bank
+
+The question bank is shared through GitHub, while user accounts and learning history remain local to each machine.
+
+**Export questions from SQLite to JSON:**
 
 ```powershell
 .\.venv\Scripts\python.exe .\NLP\sync_question_bank.py --direction export --level 3
 ```
 
-Trên máy chủ hoặc bản clone mới, sau khi `git pull`, nhập JSON vào SQLite của máy đó:
+**Import questions from JSON into SQLite:**
 
 ```powershell
 .\.venv\Scripts\python.exe .\NLP\sync_question_bank.py --direction import --level 3
 ```
 
-Bỏ `--level 3` để đồng bộ cả sáu cấp. Import chỉ thêm câu mới và bỏ qua câu trùng; mỗi máy vẫn giữ database tài khoản/lịch sử riêng. GitHub chỉ cần lưu mã nguồn, dữ liệu từ vựng/ngữ pháp JSON app đang dùng và các file `NLP/data/question_bank/hsk_*.json`.
+To synchronize all six HSK levels, omit the `--level` argument.
 
-## GitHub
+Import behavior:
+- Adds new questions to the local database.
+- Skips duplicate questions.
+- Preserves existing user accounts and learning history.
 
-Tạo repository trên GitHub, rồi chạy lần đầu tại thư mục dự án:
+### 4. Publish the Question Bank to GitHub
+
+After generating and exporting questions, review the changes:
+
+```powershell
+git status
+```
+
+Stage and commit the updated question bank:
+
+```powershell
+git add .\NLP\data\question_bank\hsk_3.json
+git commit -m "Add HSK 3 question bank"
+git push
+```
+
+On another machine, retrieve the latest version:
+
+```powershell
+git pull
+```
+
+Then import the updated question bank into its local SQLite database.
+
+## GitHub Repository Setup
+
+To initialize the repository and publish the project for the first time:
 
 ```powershell
 git init -b main
 git add .
 git commit -m "Initial HSK AI Tutor project"
-git remote add origin https://github.com/<tai-khoan>/<ten-repo>.git
+git remote add origin https://github.com/<username>/<repository-name>.git
 git push -u origin main
 ```
 
-`.gitignore` đã loại môi trường ảo, file `.env`, database SQLite, notebook thử nghiệm, dữ liệu nghiên cứu ở thư mục gốc và bản mã cũ `NLP/nlp/`. Không đưa `NLP/database/hsk_tutor.db` lên GitHub vì file đó có thông tin tài khoản và lịch sử học.
+Replace `<username>` and `<repository-name>` with your GitHub account and repository name.
+
+## Data Management
+
+The project separates shared learning content from individual user data.
+
+**Shared data (GitHub):**
+- Source code.
+- Vocabulary and grammar JSON datasets.
+- HSK question bank JSON files (`NLP/data/question_bank/hsk_*.json`).
+
+**Local data (SQLite):**
+- User accounts.
+- Learning history.
+- Other individual learning records.
+
+The SQLite database is stored at:
+
+```text
+NLP/database/hsk_tutor.db
+```
+
+**Important:** The SQLite database must not be uploaded to GitHub because it contains user account information and individual learning records.
+
+The `.gitignore` file excludes:
+- Python virtual environments.
+- `.env` files.
+- SQLite databases.
+- Experimental notebooks.
+- Research datasets in the project root.
+- Legacy code in `NLP/nlp/`.
+
+## Technologies
+
+- Python
+- Streamlit
+- Ollama
+- Large Language Models (LLMs)
+- SQLite
+- JSON
+- Git & GitHub
+
+---
+
+*HSK AI Tutor — AI-assisted Chinese language learning through structured HSK practice.*
