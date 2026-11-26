@@ -1,0 +1,128 @@
+[
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "除非你亲自邀请，他才有可能同意参加。",
+    "options": {
+      "A": "他不可能同意参加",
+      "B": "他才有可能同意参加",
+      "C": "他一定同意参加",
+      "D": "他不需要邀请"
+    },
+    "correct_option": "B",
+    "explanation": "Câu phức điều kiện '除非你亲自邀请' cho thấy điều kiện cần có để người đó có thể đồng ý tham gia."
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____的转身是指(người) quay lại; đổi hướng; (quả phụ) tái hôn (cổ).",
+    "options": {
+      "A": "编",
+      "B": "贴近",
+      "C": "局限",
+      "D": "转身"
+    },
+    "correct_option": "D",
+    "explanation": "Cấu trúc 转身 được dùng để miêu tả hành động quay lại, đổi hướng hoặc tái hôn (cổ) của một người."
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "不X不……，一X……",
+    "options": {
+      "A": "不学不知道，一学才知道汉字如此有魅力。",
+      "B": "他已经是大人了，走了就走了，有什么好担心的？",
+      "C": "她最近工作很忙，未必有时间回老家。",
+      "D": "小孩子总是喜欢拉着父母问这问那。"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 不X不……，一X…… dùng để nhấn mạnh rằng chỉ khi thực hiện một hành động thì người nói mới nhận ra, hiểu hoặc trải nghiệm được điều gì đó."
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "就算他做错了，你也____教育方法。",
+    "options": {
+      "A": "要",
+      "B": "需要",
+      "C": "必须",
+      "D": "可以"
+    },
+    "correct_option": "A",
+    "explanation": "Câu phức nhượng bộ, thừa nhận một điều kiện hoặc tình huống nhưng vẫn khẳng định nội dung ở vế chính. Trong trường hợp này, dù người khác làm sai, ta vẫn cần phải giáo dục."
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "因____，运动会延期至周六举行。",
+    "options": {
+      "A": "天气原因",
+      "B": "运动员原因",
+      "C": "组织原因",
+      "D": "时间原因"
+    },
+    "correct_option": "A",
+    "explanation": "Giới từ “因” được sử dụng để biểu thị mục đích hoặc nguyên nhân của hành động, trong trường hợp này là do trời giáng. "
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "不禁、赶忙、特地、特意、偷偷",
+    "options": {
+      "A": "表示方式",
+      "B": "表示时间",
+      "C": "表示地点",
+      "D": "表示原因"
+    },
+    "correct_option": "A",
+    "explanation": "不禁、赶忙、特地、特意、偷偷 là các từ chỉ phương thức, biểu thị cách thức hoặc thái độ thực hiện hành động."
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____了，别再想了，结果不可能改变了。",
+    "options": {
+      "A": "得了",
+      "B": "说了",
+      "C": "做了",
+      "D": "想了"
+    },
+    "correct_option": "A",
+    "explanation": "得了 được dùng để biểu thị sự kết thúc, chấp nhận hoặc ngăn người khác tiếp tục một hành động; trong câu hỏi này, nó được dùng để biểu thị kết thúc của một hành động."
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "好你个X，____了，别再想了，结果不可能改变了。",
+    "options": {
+      "A": "好你个X",
+      "B": "结果不可能改变了",
+      "C": "别再想了",
+      "D": "好你个X，____了"
+    },
+    "correct_option": "D",
+    "explanation": "Cấu trúc 好你个X dùng để gọi hoặc nhắc đến một người với sắc thái cảm xúc mạnh như trách móc, ngạc nhiên, trêu chọc hoặc tức giận. Trong câu hỏi, người dùng được gọi với sắc thái cảm xúc mạnh để nhấn mạnh việc không thể thay đổi kết quả."
+  },
+  {
+    "hsk_level": 6,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "要么……，要么……",
+    "options": {
+      "A": "我要么点外卖，要么自己做",
+      "B": "我要么去食堂吃，要么自己做",
+      "C": "我要么点外卖，要么去食堂吃",
+      "D": "我要么自己做，要么去食堂吃"
+    },
+    "correct_option": "A",
+    "explanation": "Câu phức lựa chọn "
+  }
+]

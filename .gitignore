@@ -1,0 +1,31 @@
+# Python environments and generated files
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+**/.streamlit/secrets.toml
+
+# Local databases include user accounts and learning history
+*.db
+*.sqlite
+*.sqlite3
+
+# Old duplicate implementation, experiments, and local reports
+/NLP/nlp/
+/test.ipynb
+/.report_render/
+/_report_render/
+/Báo cáo*.docx
+
+# Raw/processed research data at repository root is not read by the app
+/data/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

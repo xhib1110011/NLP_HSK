@@ -1,0 +1,282 @@
+[
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____了吗？",
+    "options": {
+      "A": "我已经吃了",
+      "B": "我还没有吃",
+      "C": "我正在吃",
+      "D": "我不想吃"
+    },
+    "correct_option": "B",
+    "explanation": "Câu hỏi này sử dụng ngữ pháp 还X呢, biểu thị mối quan hệ giữa hai hành động hoặc thành phần trong câu. Trong trường hợp này, câu hỏi đang hỏi về tình trạng đã ăn hay chưa."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "你吃你的吧，____。",
+    "options": {
+      "A": "我不饿",
+      "B": "我很饿",
+      "C": "我不想吃",
+      "D": "我很想吃"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc này dùng để bảo người khác cứ tiếp tục làm việc của họ, không cần bận tâm hoặc chờ đợi người nói."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "跟其他公司相比，我们的产品____，且服务也好。",
+    "options": {
+      "A": "不但便宜",
+      "B": "不但便宜且服务也好",
+      "C": "不便",
+      "D": "不便且服务不好"
+    },
+    "correct_option": "B",
+    "explanation": "Câu so sánh được sử dụng để biểu thị sự kém hơn hoặc đối chiếu giữa các đối tượng. Trong câu này, "
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "为了梦想而努力的人值得我们学习。",
+    "options": {
+      "A": "不是",
+      "B": "是",
+      "C": "可能",
+      "D": "不可能"
+    },
+    "correct_option": "B",
+    "explanation": "Cấu trúc 为了……而…… biểu thị mục đích của một hành động. Trong câu hỏi, mục đích là để đạt được ước mơ, nên đáp án là 是 (yes)."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "难道你不应该负责吗？",
+    "options": {
+      "A": "是的，我应该负责",
+      "B": "不是，我不应该负责",
+      "C": "也许，我应该负责",
+      "D": "不知道，我不确定"
+    },
+    "correct_option": "A",
+    "explanation": "Câu hỏi này sử dụng cấu trúc nghi vấn để biểu đạt ý khẳng định hoặc phủ định mang tính nhấn mạnh. Đáp án đúng là '是的，我应该负责' vì nó phù hợp với ngữ cảnh và ngữ pháp."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "这个房间____的，估计能住七八个人。",
+    "options": {
+      "A": "够大",
+      "B": "够小",
+      "C": "够舒适",
+      "D": "够小和舒适"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 够……的 dùng để nhấn mạnh mức độ hoặc đặc điểm của người, sự vật hay sự việc."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "在学习方面，我____，因为我想提高自己的知识。",
+    "options": {
+      "A": "很努力",
+      "B": "很快",
+      "C": "很困难",
+      "D": "很有趣"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 在……方面 dùng để giới hạn phương diện học tập, và từ vựng "
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "如果我来不及，____。",
+    "options": {
+      "A": "我会尽力",
+      "B": "我会放弃",
+      "C": "我会推迟",
+      "D": "我会取消"
+    },
+    "correct_option": "C",
+    "explanation": "来不及 biểu thị không còn đủ thời gian để thực hiện việc đó, nên chọn đáp án C là phù hợp."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我每天骑自行车上学，这样既能锻炼身体，也____。",
+    "options": {
+      "A": "对环境保护有帮助",
+      "B": "提高自己的知识",
+      "C": "锻炼自己的意志",
+      "D": "学习更加有效"
+    },
+    "correct_option": "A",
+    "explanation": "Câu trúc既……，也…… biểu thị hai việc có quan hệ ngang hàng, trong đó "
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "人们喜欢一边喝咖啡，一边____。",
+    "options": {
+      "A": "聊天",
+      "B": "看书",
+      "C": "听音乐",
+      "D": "做饭"
+    },
+    "correct_option": "A",
+    "explanation": "Câu trúc ngữ pháp 既……，又/也…… biểu thị hai hành động ngang hàng, trong trường hợp này là uống cà phê và nói chuyện."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "他们跑了好几家医院，____。",
+    "options": {
+      "A": "怎么也没查出孩子生病的原因",
+      "B": "终于找到了孩子生病的原因",
+      "C": "他们找到了孩子生病的原因",
+      "D": "他们没找到孩子生病的原因"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 怎么都/也+不/没…… nhấn mạnh rằng dù thử bằng cách nào hoặc trong hoàn cảnh nào thì hành động, sự việc vẫn không xảy ra hoặc không đạt được kết quả."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "对于学习成绩优秀的同学，学校每年都会____。",
+    "options": {
+      "A": "提供奖学金",
+      "B": "举办庆祝活动",
+      "C": "给予奖励",
+      "D": "提供住宿"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 对于 + danh từ + 的 dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới. Trong trường hợp này, 对于学习成绩优秀的同学 là đối tượng, và 学校每年都会提供奖学金 là hành động hướng tới."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我再也不____了吗？",
+    "options": {
+      "A": "迟到了",
+      "B": "见过",
+      "C": "学习",
+      "D": "锻炼"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 再也不/没…… dùng để nhấn mạnh rằng một hành động sẽ không tiếp tục xảy ra hoặc đã không xảy ra thêm lần nào nữa."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我保证今后再也不____了吗？",
+    "options": {
+      "A": "迟到了",
+      "B": "改变主意",
+      "C": "见过他",
+      "D": "学习成绩优秀"
+    },
+    "correct_option": "A",
+    "explanation": "Câu này sử dụng cấu trúc 再也不/没…… để nhấn mạnh rằng một hành động sẽ không tiếp tục xảy ra nữa."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我这两天很忙，____。",
+    "options": {
+      "A": "来得及",
+      "B": "来不及",
+      "C": "很累",
+      "D": "很高兴"
+    },
+    "correct_option": "A",
+    "explanation": "Câu này sử dụng ngữ pháp 来得及/来不及, biểu thị còn đủ thời gian để thực hiện một việc."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "作为生活在中国的外国人，我____了解中国人的生活习惯。",
+    "options": {
+      "A": "很想",
+      "B": "想了解",
+      "C": "了解",
+      "D": "不想了解"
+    },
+    "correct_option": "A",
+    "explanation": "“作为生活在中国的外国人” cho thấy người ngoại quốc đang sống tại Trung Quốc, nên câu hỏi hỏi về việc họ có muốn hiểu về cuộc sống người Trung Quốc hay không."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "由于您没带护照，____。",
+    "options": {
+      "A": "因此不能办理银行卡",
+      "B": "因此可以办理银行卡",
+      "C": "因此需要办理银行卡",
+      "D": "因此不需要办理银行卡"
+    },
+    "correct_option": "A",
+    "explanation": "Câu này sử dụng cấu trúc ngữ pháp \"由于」……，因此」…… để biểu thị quan hệ nguyên nhân và kết quả."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "说不定路上堵车，再____。",
+    "options": {
+      "A": "说不定",
+      "B": "慢慢",
+      "C": "点儿",
+      "D": "吧"
+    },
+    "correct_option": "D",
+    "explanation": "Cấu trúc 说不定路上堵车，再_____. thể hiện sự phỏng đoán về tình huống đường phố bị tắc, và người nói đang chờ đợi một tình huống nào đó."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "再也不/没……",
+    "options": {
+      "A": "继续做",
+      "B": "不再做",
+      "C": "已经做",
+      "D": "还没有做"
+    },
+    "correct_option": "B",
+    "explanation": "Cấu trúc 再也不/没…… dùng để nhấn mạnh rằng một hành động sẽ không tiếp tục xảy ra hoặc đã không xảy ra thêm lần nào nữa."
+  },
+  {
+    "hsk_level": 4,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "中国各地的生活习惯各不相同，____来说，南方人一般喜欢吃米饭，而北方人爱吃面条、馒头等面食。",
+    "options": {
+      "A": "拿吃饭来说",
+      "B": "拿生活习惯来说",
+      "C": "拿文化来说",
+      "D": "拿历史来说"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 拿……来说 dùng để đưa ra một đối tượng hoặc khía cạnh cụ thể làm ví dụ minh họa cho nhận xét chung."
+  }
+]

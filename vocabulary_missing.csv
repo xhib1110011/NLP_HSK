@@ -1,0 +1,54 @@
+﻿word_id,standard,word,pinyin,word_type,level,all_levels,level_name,sort,word_type_missing,word_type_status
+V00014,HSK3.0,不客气,bú kèqi,,1,1,一级,14,True,missing
+V00024,HSK3.0,打电话,dǎ diànhuà,,1,1,一级,24,True,missing
+V00120,HSK3.0,没关系,méi guānxi,,1,1,一级,120,True,missing
+V00147,HSK3.0,你好,nǐ hǎo,,1,1,一级,147,True,missing
+V00227,HSK3.0,下雨,xià yǔ,,1,1,一级,227,True,missing
+V00300,HSK3.0,做饭,zuò fàn,,1,1,一级,300,True,missing
+V00313,HSK3.0,不好意思,bù hǎoyìsi,,2,2,二级,313,True,missing
+V00398,HSK3.0,没意思,méi yìsi,,2,2,二级,398,True,missing
+V00454,HSK3.0,为什么,wèi shénme,,2,2,二级,454,True,missing
+V00479,HSK3.0,有意思,yǒu yìsi,,2,2,二级,479,True,missing
+V00541,HSK3.0,不同,bù tóng,,3,3,三级,541,True,missing
+V00555,HSK3.0,常见,cháng jiàn,,3,3,三级,555,True,missing
+V00556,HSK3.0,常用,cháng yòng,,3,3,三级,556,True,missing
+V00637,HSK3.0,感兴趣,gǎn xìngqù,,3,3,三级,637,True,missing
+V00964,HSK3.0,怎么办,zěnme bàn,,3,3,三级,964,True,missing
+V00977,HSK3.0,只能,zhǐ néng,,3,3,三级,977,True,missing
+V01100,HSK3.0,此次,cǐ cì,,4,4,四级,1100,True,missing
+V01115,HSK3.0,打招呼,dǎ zhāohu,,4,4,四级,1115,True,missing
+V01419,HSK3.0,开玩笑,kāi wánxiào,,4,4,四级,1419,True,missing
+V01476,HSK3.0,零下,líng xià,,4,4,四级,1476,True,missing
+V01531,HSK3.0,能否,néng fǒu,,4,4,四级,1531,True,missing
+V01665,HSK3.0,十字路口,shízì lùkǒu,,4,4,四级,1665,True,missing
+V02200,HSK3.0,从不,cóng bù,,5,5,五级,2200,True,missing
+V02358,HSK3.0,丰富多彩,fēngfù-duōcǎi,,5,5,五级,2358,True,missing
+V02399,HSK3.0,各行各业,gèháng-gèyè,,5,5,五级,2399,True,missing
+V02617,HSK3.0,近年来,jìnnián lái,,5,5,五级,2617,True,missing
+V02880,HSK3.0,亲朋好友,qīnpéng-hǎoyǒu,,5,5,五级,2880,True,missing
+V03087,HSK3.0,酸甜苦辣,suān-tián-kǔ-là,,5,5,五级,3087,True,missing
+V03214,HSK3.0,五颜六色,wǔyán-liùsè,,5,5,五级,3214,True,missing
+V03358,HSK3.0,一路顺风,yílù-shùnfēng,,5,5,五级,3358,True,missing
+V03402,HSK3.0,由此,yóu cǐ,,5,5,五级,3402,True,missing
+V03409,HSK3.0,有害,yǒu hài,,5,5,五级,3409,True,missing
+V03430,HSK3.0,原有,yuán yǒu,,5,5,五级,3430,True,missing
+V03521,HSK3.0,中华民族,Zhōnghuá Mínzú,,5,5,五级,3521,True,missing
+V03667,HSK3.0,不耐烦,bú nàifán,,6,6,六级,3667,True,missing
+V03763,HSK3.0,成千上万,chéngqiān-shàngwàn,,6,6,六级,3763,True,missing
+V03836,HSK3.0,打交道,dǎ jiāodao,,6,6,六级,3836,True,missing
+V03845,HSK3.0,大吃一惊,dàchī-yìjīng,,6,6,六级,3845,True,missing
+V03936,HSK3.0,多才多艺,duōcái-duōyì,,6,6,六级,3936,True,missing
+V04037,HSK3.0,高新技术,gāoxīn-jìshù,,6,6,六级,4037,True,missing
+V04117,HSK3.0,海内外,hǎi nèiwài,,6,6,六级,4117,True,missing
+V04128,HSK3.0,毫不,háo bù,,6,6,六级,4128,True,missing
+V04129,HSK3.0,毫无,háo wú,,6,6,六级,4129,True,missing
+V04633,HSK3.0,千家万户,qiānjiā-wànhù,,6,6,六级,4633,True,missing
+V04694,HSK3.0,人工智能,réngōng zhìnéng,,6,6,六级,4694,True,missing
+V04697,HSK3.0,人山人海,rénshān-rénhǎi,,6,6,六级,4697,True,missing
+V05014,HSK3.0,下功夫,xià gōngfu,,6,6,六级,5014,True,missing
+V05139,HSK3.0,衣食住行,yī-shí-zhù-xíng,,6,6,六级,5139,True,missing
+V05164,HSK3.0,一帆风顺,yìfān-fēngshùn,,6,6,六级,5164,True,missing
+V05167,HSK3.0,一模一样,yìmú-yíyàng,,6,6,六级,5167,True,missing
+V05313,HSK3.0,至关重要,zhìguān-zhòngyào,,6,6,六级,5313,True,missing
+V05334,HSK3.0,众所周知,zhòngsuǒzhōuzhī,,6,6,六级,5334,True,missing
+V05383,HSK3.0,自言自语,zìyán-zìyǔ,,6,6,六级,5383,True,missing

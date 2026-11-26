@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "hsk_level": 3,
+        "topic": "grammar",
+        "question": "我昨天___去学校。",
+        "options": {
+            "A": "不",
+            "B": "没",
+            "C": "很",
+            "D": "都"
+        },
+        "correct_option": "B",
+        "explanation": "没 thường được dùng để phủ định hành động đã xảy ra hoặc chưa xảy ra trong quá khứ."
+    },
+    {
+        "id": 2,
+        "hsk_level": 3,
+        "topic": "vocabulary",
+        "question": "“容易” có nghĩa là gì?",
+        "options": {
+            "A": "Khó khăn",
+            "B": "Dễ dàng",
+            "C": "Nguy hiểm",
+            "D": "Quan trọng"
+        },
+        "correct_option": "B",
+        "explanation": "容易 (róngyì) có nghĩa là dễ dàng."
+    },
+    {
+        "id": 3,
+        "hsk_level": 3,
+        "topic": "sentence_order",
+        "question": "Câu nào có trật tự từ đúng?",
+        "options": {
+            "A": "我每天学习汉语。",
+            "B": "每天我汉语学习。",
+            "C": "学习汉语我每天。",
+            "D": "汉语每天学习我。"
+        },
+        "correct_option": "A",
+        "explanation": "Trạng ngữ thời gian 每天 thường đứng trước động từ 学习 trong câu này."
+    }
+]

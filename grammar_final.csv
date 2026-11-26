@@ -1,0 +1,453 @@
+﻿grammar_id,level,category,grammar,grammar_detail,examples_cn
+G00001,1,前缀,小—、第—,Tiền tố đứng trước từ để tạo thành từ mới. 小- thường dùng trong cách gọi thân mật hoặc tên gọi; 第- đứng trước số từ để tạo số thứ tự.,小高去哪儿了？\n今天我们学习第一课。
+G00002,1,后缀,—们、—边,Hậu tố đứng sau từ để tạo từ hoặc biểu thị ý nghĩa bổ sung. 们 thường dùng để tạo danh từ số nhiều chỉ người; 边 kết hợp với từ chỉ phương hướng hoặc vị trí.,同学们，你们好！\n学校里边有超市。\n外边正在下雨呢。\n电影院在医院的后边。
+G00003,1,名词,上、下、里、外、前、后,"Danh từ chỉ phương vị, biểu thị vị trí hoặc phương hướng.",桌子上有几本书？\n书店里的人很多。\n他们都在国外。
+G00004,1,动词,会、能,"Động từ năng nguyện, biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động.",我会说中文。\n他不会开车。\n你明天能不能去？\n她生病了，不能来上课。
+G00005,1,动词,想、要,"Động từ năng nguyện, biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động.",我想买一些水果。\n你想喝茶吗？\n他们要去书店。\n我要学习汉语。
+G00006,1,动词,可以,"Động từ năng nguyện, biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động.",这儿不可以吃东西。\n我可以问一个问题吗？
+G00007,1,动词,看病、睡觉、说话、上课、下课、上班、下班、生病,"Từ ly hợp, có đặc điểm kết hợp giữa động từ và tân ngữ, nhưng có thể được tách ra bởi một số thành phần khác.",他去医院看病了。\n我想睡一觉，休息一下（儿）。\n上课不要说话。\n今天我上中文课。\n我下了课要去食堂。\n下了班你做什么？\n她昨天生病了。
+G00008,1,代词,多、多少、几、哪、哪儿、哪里、哪些、什么、谁、怎么、怎么样,"Đại từ nghi vấn, dùng để hỏi về người, sự vật, số lượng, địa điểm, cách thức hoặc tính chất.",你弟弟多大？\n这件衣服多少钱？\n现在几点？\n她是哪国人？\n你去哪儿？\n你住在哪里？\n哪些是汉语书？\n那是什么？\n那个人是谁？\n你怎么去学校？\n明天天气怎么样？
+G00009,1,代词,我、你、您、他、她、我们、你们、他们、她们、它、它们、大家,"Đại từ nhân xưng, dùng để chỉ người hoặc đối tượng tham gia giao tiếp.",我是学生。\n你是哪国人？\n老师，您好！\n他会开车吗？\n她是不是老师？\n我们都是大学生。\n你们是学生吗？\n他们去哪儿了？\n她们都是我的朋友。\n你看，它正在吃饭呢。\n这些小狗真漂亮，它们叫什么名字？\n大家都喜欢学习汉语。
+G00010,1,代词,这、那、这儿、那儿、这里、那里、这些、那些、有的、这个、那个、有些,"Đại từ chỉ thị, dùng để xác định hoặc chỉ rõ người, sự vật, địa điểm và phạm vi.",这是谁的书？\n那个手机多少钱？\n我在这儿学习中文。\n那儿有一家书店。\n这里是我的家。\n那里有一家饭店。\n这些是老师的书。\n我不认识那些人。\n到了饭店，大家有的想吃米饭，有的想吃面条。\n这个杯子多少钱？\n她在那个房间。\n有些学生不在学校住。
+G00011,1,数词,一、二/两、三、四、五、六、七、八、九、零、十、百、半、千,"Số từ dùng để biểu thị số lượng, thứ tự hoặc một phần của đơn vị. Bao gồm số đếm cơ bản, cách kết hợp số hàng chục, hàng trăm, hàng nghìn và cách dùng 半 để chỉ một nửa.",一个、两百、五十八、一百零六、两千三百五十、九点半、半个小时
+G00012,1,量词,专用名量词：本、个、家、口、块、件、只、元,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",这本书是中文书。\n我吃了两个包子。\n前边有一家书店。\n你家有几口人？\n我有十块钱。\n这只小猫真漂亮。\n这件衣服三百元。
+G00013,1,量词,借用名量词：杯,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",喝杯茶吧。
+G00014,1,量词,日、号、岁、点、分、年、天,"Từ chỉ lượng thời gian, biểu thị khoảng thời gian hoặc đơn vị thời gian.",今天几月几日（号）？\n她今年几岁？\n现在八点二十分。\n一年有十二个月。\n你一天学习几个汉字？
+G00015,1,副词,非常、很、太、真、有（一）点儿,"Phó từ chỉ mức độ, bổ sung ý nghĩa về mức độ hoặc cường độ cho tính từ, động từ hoặc thành phần khác.",我非常喜欢学中文。\n这里的水果很便宜。\n房间里太热了。\n这儿的菜真好吃。\n今天天气有点儿冷。
+G00016,1,副词,都1,"Phó từ chỉ phạm vi, biểu thị phạm vi bao quát, giới hạn hoặc đối tượng được đề cập.",我们都学习汉语。\n他们都是中国学生。
+G00017,1,副词,在、正在,"Phó từ chỉ thời gian, biểu thị thời điểm, thời gian hoặc trình tự xảy ra của hành động.",他们在做什么？\n学生们正在上课。
+G00018,1,副词,再1,"Phó từ chỉ tần suất, biểu thị mức độ thường xuyên hoặc số lần hành động xảy ra.",我想再买一本。\n我再问一个问题，可以吗？
+G00019,1,副词,还1、也,"Phó từ liên kết, biểu thị mối quan hệ giữa các hành động hoặc thành phần trong câu.",我想吃面条儿，还想吃包子。\n我有两个姐姐，还有一个哥哥。\n他是学生，我也是学生。\n我学习汉语，我弟弟也学习汉语。
+G00020,1,副词,不、没（有）、不要,"Phó từ phủ định, dùng để phủ định hành động, trạng thái hoặc nội dung được diễn đạt.",她不是老师。\n我没看电视。\n她去超市了，我没有去。\n请大家不要说话。
+G00021,1,介词,在,Giới từ dùng để dẫn ra thời gian hoặc địa điểm liên quan đến hành động.,我想在中国工作。\n你在哪儿学习中文？
+G00022,1,介词,和1、对,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,我没和她一起去超市。\n我对老师说“谢谢”。
+G00023,1,连词,和2,Dùng để liên kết các từ hoặc cụm từ có quan hệ ngữ pháp và ngữ nghĩa.,我和姐姐都喜欢唱歌。\n今天和明天都下雨。
+G00024,1,助词,的1,"Trợ từ kết cấu, dùng để biểu thị quan hệ ngữ pháp giữa các thành phần trong cụm từ hoặc câu.",这是你的手机吗？\n她是我的好朋友。
+G00025,1,助词,了1,"Trợ từ động thái, dùng để biểu thị đặc điểm về thời gian, sự hoàn thành, trải nghiệm hoặc trạng thái của hành động.",今天我们学了十个汉字。\n我买了一些苹果。
+G00026,1,助词,吧1、了2 、吗、呢1、呢2、呢3,"Trợ từ ngữ khí, thường đặt ở cuối câu để biểu thị thái độ, cảm xúc hoặc mục đích giao tiếp.",我们走吧。\n八点了，起床吧。\n她病了，在家休息呢。\n他是中国人吗？\n这个电影好看吗？\n她正在学习呢1。\n我是中国人，你呢2？\nA：你的手机呢3？\nB：我的手机在房间里。
+G00027,1,叹词,喂,"Thán từ dùng trong giao tiếp để gọi, thu hút sự chú ý hoặc bắt đầu cuộc hội thoại qua điện thoại. 喂 thường được dùng khi nghe hoặc trả lời điện thoại.",喂，请问，李老师在吗？\n喂，你去哪儿？
+G00028,1,结构类型,联合短语,"Cụm đẳng lập, gồm hai hoặc nhiều thành phần có quan hệ ngang hàng về mặt ngữ pháp và cùng thực hiện một chức năng trong câu.",哥哥姐姐、今天和明天、有没有
+G00029,1,结构类型,偏正短语,"Cụm chính phụ, gồm thành phần chính và thành phần phụ. Thành phần phụ bổ sung ý nghĩa, giới hạn hoặc miêu tả cho thành phần chính.",好朋友、我的书包、很喜欢
+G00030,1,结构类型,动宾短语,"Cụm động tân, gồm động từ và tân ngữ đi sau, trong đó tân ngữ biểu thị đối tượng hoặc nội dung liên quan đến hành động.",买东西、回学校、去公司
+G00031,1,结构类型,主谓短语,"Cụm chủ vị, gồm thành phần chủ ngữ và vị ngữ, biểu thị một đối tượng cùng thông tin về đối tượng đó.",我们学习、孩子高兴、房间很大
+G00032,1,结构类型,数量短语,"Cụm số lượng, được tạo thành từ số từ và lượng từ, dùng để biểu thị số lượng hoặc đơn vị của người, sự vật.",一杯、两个
+G00033,1,结构类型,介宾短语,"Cụm giới từ, gồm giới từ kết hợp với thành phần theo sau để biểu thị quan hệ về thời gian, địa điểm, đối tượng, phương hướng hoặc nguyên nhân.",在学校（学习）、对老师（说）、和朋友（说汉语）
+G00034,1,结构类型,方位短语,"Cụm phương vị, được tạo thành từ thành phần chỉ địa điểm hoặc sự vật kết hợp với từ chỉ phương hướng, vị trí.",桌子上、饭店里、椅子下边
+G00035,1,主语,名词、代词或名词性短语作主语,"Chủ ngữ là thành phần nêu người, sự vật hoặc đối tượng được nói đến trong câu. Chủ ngữ thường do danh từ, đại từ hoặc cụm danh từ đảm nhiệm.",电影很好看。\n她是老师。\n这本书多少钱？
+G00036,1,谓语,名词、代词、数词或数量短语作谓语,"Vị ngữ là thành phần nêu thông tin về chủ ngữ. Trong cấu trúc này, vị ngữ có thể là danh từ, đại từ, số từ hoặc cụm số lượng, thường dùng để giới thiệu, xác định hoặc biểu thị số lượng.",明天星期三。\n那个饭店怎么样？\n我今年十二，我哥哥十五。\n这本书二十八块。
+G00037,1,谓语,动词或动词性短语、形容词或形容词性短语作谓语,"Vị ngữ có thể do động từ, cụm động từ, tính từ hoặc cụm tính từ đảm nhiệm. Thành phần này diễn tả hành động, trạng thái hoặc đặc điểm của chủ ngữ.",老师来了。\n哥哥去学校了。\n我的房间不大。\n这个菜很好吃。
+G00038,1,宾语,名词、代词或名词性短语作宾语,"Tân ngữ là thành phần đứng sau động từ để chỉ đối tượng chịu tác động hoặc đối tượng liên quan đến hành động. Tân ngữ thường do danh từ, đại từ hoặc cụm danh từ đảm nhiệm.",我喝茶。\n明天我去找你。\n我吃了二十个饺子。
+G00039,1,定语,名词性词语、形容词性短语、数量短语作定语,"Định ngữ là thành phần bổ nghĩa cho danh từ, giúp làm rõ đặc điểm, tính chất, số lượng hoặc quan hệ sở hữu của sự vật. Định ngữ thường đứng trước danh từ và có thể kết hợp với 的.",她不会唱中文歌。\n我的中文老师是中国人。\n我想买便宜的手机。\n桌子下边有一只小狗。
+G00040,1,状语,副词、形容词作状语\n表示时间、处所的词语作状语,"Trạng ngữ là thành phần bổ nghĩa cho động từ hoặc tính từ, biểu thị thời gian, địa điểm, cách thức hoặc mức độ của hành động và trạng thái. Trạng ngữ thường đứng trước động từ hoặc tính từ.",他们都是中国学生。\n你多吃一点儿。\n我们十二点下课。\n我妈妈在医院工作。
+G00041,1,补语,动词+动量补语,"Bổ ngữ số lượng, biểu thị số lần hành động xảy ra.",休息一下吧。\n请问一下，医院在哪儿？\n我想看一下那件衣服。\n请写一下你的名字。
+G00042,1,句型,主谓句1：动词谓语句,"Câu đơn, có một kết cấu chủ vị chính và diễn đạt một nội dung tương đối hoàn chỉnh.",我买了一个面包。\n他今天不休息。
+G00043,1,句型,主谓句2：形容词谓语句,"Câu đơn, có một kết cấu chủ vị chính và diễn đạt một nội dung tương đối hoàn chỉnh.",今天天气很热。\n你女儿真漂亮！
+G00044,1,句型,主谓句3：名词谓语句,"Câu đơn, có một kết cấu chủ vị chính và diễn đạt một nội dung tương đối hoàn chỉnh.",今天星期一。\n现在十二点半。
+G00045,1,句型,非主谓句,"Câu đơn, có một kết cấu chủ vị chính và diễn đạt một nội dung tương đối hoàn chỉnh.",对不起！\n下雨了。
+G00046,1,句类,是非问句,"Câu nghi vấn, dùng để đặt câu hỏi và yêu cầu thông tin hoặc xác nhận nội dung.",他是中国人吗？
+G00047,1,句类,特指问句,"Câu nghi vấn, dùng để đặt câu hỏi và yêu cầu thông tin hoặc xác nhận nội dung.",他是哪国人？
+G00048,1,句类,正反问句,"Câu nghi vấn, dùng để đặt câu hỏi và yêu cầu thông tin hoặc xác nhận nội dung.",你想不想学中文？\n你吃没吃晚饭？\n同学们都来了没有？\n今天冷不冷？
+G00049,1,特殊句型,表示等同或类属,“是”字句1,我哥哥是大学生。
+G00050,1,特殊句型,表示领有,“有”字句1,我有哥哥，没有姐姐。
+G00051,1,特殊句型,所处+是+名词,"Câu tồn hiện, dùng để giới thiệu sự tồn tại hoặc vị trí của người, sự vật tại một địa điểm.",前边是不是电影院？\n超市后边是一家饭店。
+G00052,1,特殊句型,处所+有+数量短语+名词,"Câu tồn hiện, dùng để giới thiệu sự tồn tại hoặc vị trí của người, sự vật tại một địa điểm.",学校外边有一家书店。\n桌子上有一本中文书。
+G00053,1,特殊句型,前后动作先后发生，后一动作是前一动作的目的,"Câu liên động, trong đó một chủ ngữ thực hiện hai hoặc nhiều hành động có quan hệ về trình tự hoặc mục đích.",我来中国学汉语。\n晚上我们去电影院看电影。
+G00054,1,特殊句型,前一动作是后一动作的方式,"Câu liên động, trong đó một chủ ngữ thực hiện hai hoặc nhiều hành động có quan hệ về trình tự hoặc mục đích.",我坐飞机去上海。\n爸爸每天开车上班。
+G00055,1,特殊句型,主语+动词+宾语1+宾语2,"Câu hai tân ngữ, trong đó động từ đi kèm hai tân ngữ để biểu thị đối tượng tiếp nhận và nội dung được chuyển giao.",老师给我一本书。\n我问你一个问题。
+G00056,1,复句,……，也……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",我喜欢唱歌，我弟弟也喜欢唱歌。\n这家饭店的饺子很好吃，也很便宜。
+G00057,1,复句,……，还……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",这个房间很大，还很漂亮。\n我会说英语，还会说汉语。
+G00058,1,动作的态,用动态助词“了1”表示,"Thể hoàn thành, biểu thị hành động đã hoàn tất.",你学了多少个汉字？\n我买了一些苹果。
+G00059,1,动作的态,用语气助词“了2”表示,"Thể biến đổi, biểu thị sự thay đổi trạng thái hoặc tình hình.",八点了，起床吧。\n她病了，在家休息呢。
+G00060,1,动作的态,……在/正在+动词,"Thể đang diễn ra, biểu thị hành động đang xảy ra tại một thời điểm.",同学们在/正在上课。
+G00061,1,动作的态,……在/正在+动词……+呢,"Thể đang diễn ra, biểu thị hành động đang xảy ra tại một thời điểm.",王老师在/正在打电话呢。
+G00062,1,动作的态,……呢,"Thể đang diễn ra, biểu thị hành động đang xảy ra tại một thời điểm.",我没看电视，学习呢。
+G00063,1,数的表达法,钱数表示法,Cách biểu thị số tiền trong tiếng Trung. Số tiền thường được nói theo thứ tự số lượng rồi đến đơn vị tiền tệ như 块 hoặc 元; có thể thêm 钱 ở phía sau.,这本书二十四块（钱）。\n包子三块（钱）一个。
+G00064,1,数的表达法,序数表达法1：第+数词,"Cách biểu thị số thứ tự bằng cấu trúc 第 + số từ + danh từ. 第 đứng trước số từ để biến số đếm thành số thứ tự, chẳng hạn 第一课 (bài học thứ nhất).",今天我们学习第六课。\n第一本是我的书，第二本是她的书。
+G00065,1,时间表示法,年、月、日、星期表示法,"Cách biểu thị ngày tháng và thứ trong tuần. Thông thường, tiếng Trung sắp xếp theo thứ tự năm + tháng + ngày; thứ trong tuần được biểu thị bằng 星期 kết hợp với số hoặc 天.",2022年2月4日\n九月十五号、五月一日\n星期一、星期二、星期三、星期四、星期五、星期六、星期日/星期天
+G00066,1,时间表示法,钟点表示法,"Cách biểu thị giờ và phút trong tiếng Trung. Số giờ đứng trước 点, số phút đứng sau 点; 半 biểu thị 30 phút và 零 có thể dùng khi đọc phút có hàng chục bằng 0.",两点、七点零五、九点二十（分）、十点半
+G00067,2,后缀,面,"面 là hậu tố kết hợp với từ chỉ phương hướng hoặc vị trí để biểu thị vị trí của sự vật, chẳng hạn 前面 (phía trước), 后面 (phía sau), 里面 (bên trong).",我想坐在教室前面。\n你的书包里面有什么？\n学校后面有一家超市。
+G00068,2,名词,左、右,"Danh từ chỉ phương vị, biểu thị vị trí hoặc phương hướng.",左边那件多少钱？\n你右边那个人是谁？
+G00069,2,动词,AA、A一A、A了A、ABAB,"Động từ lặp lại hình thức nhằm biểu thị hành động thử, thực hiện trong thời gian ngắn hoặc với mức độ nhẹ.",那本书能给我看看吗？\n请大家说一说自己的爱好。\n我尝了尝，觉得很好吃。\n喝杯茶，休息休息吧。
+G00070,2,动词,可能,"Động từ năng nguyện, biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động.",她可能回家了。\n小猫可能在房间里。
+G00071,2,动词,帮忙、游泳、跳舞、跑步,"Từ ly hợp, có đặc điểm kết hợp giữa động từ và tân ngữ, nhưng có thể được tách ra bởi một số thành phần khác.",你能帮我一个忙吗？\n晚上一起去游游泳，运动一下吧。\n星期六的晚上，我喜欢和朋友们一起唱唱歌，跳跳舞。\n有时间你可以去外面跑跑步。
+G00072,2,代词,为什么,"Đại từ nghi vấn, dùng để hỏi về người, sự vật, số lượng, địa điểm, cách thức hoặc tính chất.",他昨天为什么没来上课？\n你为什么想学中文？
+G00073,2,代词,自己,"Đại từ nhân xưng, dùng để chỉ người hoặc đối tượng tham gia giao tiếp.",下午我有事，你自己去，可以吗？
+G00074,2,代词,那么、那样、这么、这样、每,"Đại từ chỉ thị, dùng để xác định hoặc chỉ rõ người, sự vật, địa điểm và phạm vi.",他为什么学得那么好？\n那样的事情经常有。\n这么多人，我们明天再来吧。\n这个字这样写，对吗？\n你每天怎么去学校？
+G00075,2,形容词,AA、AABB,"Tính từ lặp lại hình thức nhằm nhấn mạnh hoặc miêu tả đặc điểm, mức độ và sắc thái biểu cảm.",她高高的个子，大大的眼睛，非常漂亮。\n大家高高兴兴地回家了。
+G00076,2,数词,万、好多、多,万 là đơn vị số đếm tương đương mười nghìn. 好多 và 多 dùng để biểu thị số lượng lớn hoặc số lượng không xác định; 多 còn có thể kết hợp với số từ và lượng từ để biểu thị số lượng ước chừng.,两万三千、五万零八百、好多东西、好多人、二十多年、五十多人
+G00077,2,量词,专用名量词：条、位、间、名,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",一条裤子、一位老师、一间教室、一名学生
+G00078,2,量词,借用名量词：包,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",一包衣服、一包书
+G00079,2,量词,次,"Động lượng từ, dùng để biểu thị số lần hoặc số lượt một hành động xảy ra.",去一次、看一次
+G00080,2,副词,多、好、最,"Phó từ chỉ mức độ, bổ sung ý nghĩa về mức độ hoặc cường độ cho tính từ, động từ hoặc thành phần khác.",这只小狗多可爱啊！\n这个教室好大啊！\n我最喜欢打篮球。
+G00081,2,副词,一起,"Phó từ chỉ phạm vi, biểu thị phạm vi bao quát, giới hạn hoặc đối tượng được đề cập.",晚上我们一起吃饭吧。\n一起去看电影，怎么样？
+G00082,2,副词,还2、已经、有时（候）、快、快要、正,"Phó từ chỉ thời gian, biểu thị thời điểm, thời gian hoặc trình tự xảy ra của hành động.",他还没有起床呢。\n张老师已经下班了。\n我有时（候）去超市买东西。\n下雨了，快回家吧。\n新年快要到了。\n我出来的时候，他正睡觉呢。
+G00083,2,副词,常、经常,"Phó từ chỉ tần suất, biểu thị mức độ thường xuyên hoặc số lần hành động xảy ra.",我不常坐地铁。\n你经常上网买东西吗？
+G00084,2,副词,别,"Phó từ phủ định, dùng để phủ định hành động, trạng thái hoặc nội dung được diễn đạt.",下雨了，别出去了。\n别忘了，明天有考试。
+G00085,2,副词,再2、就1,"Phó từ liên kết, biểu thị mối quan hệ giữa các hành động hoặc thành phần trong câu.",我先休息一会儿再工作。\n你洗完手再吃水果。\n因为身体不舒服，我就没去上课。\n他一到北京就去了长城。
+G00086,2,副词,都2、就2、还是1,"Phó từ ngữ khí, bổ sung sắc thái biểu cảm, đánh giá hoặc thái độ của người nói.",都十二点了，快睡觉吧。\n车站就在那个饭馆旁边。\n就买这件白色的吧。\n外边很冷，还是多穿一点儿吧。
+G00087,2,介词,从1,Giới từ dùng để dẫn ra thời gian hoặc địa điểm liên quan đến hành động.,我们从八点到十二点上课。\n你从哪儿来？
+G00088,2,介词,往,"Giới từ dùng để biểu thị phương hướng, tuyến đường hoặc điểm di chuyển.",你从这儿往前走。\n从这儿往下看，真漂亮啊！
+G00089,2,介词,从2,"Giới từ dùng để biểu thị phương hướng, tuyến đường hoặc điểm di chuyển.",这路公交车不从学校门口过。\n前门没开，咱们从后门进去吧。
+G00090,2,介词,给,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,我经常给爸爸妈妈打电话。\n我给老师买了一杯咖啡。
+G00091,2,介词,比,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,今天比昨天热。\n我觉得红色的比黑色的好看。
+G00092,2,介词,跟1,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,跟我说说你的爱好吧。\n我跟他见过一次。
+G00093,2,介词,因为1,Giới từ dùng để dẫn ra nguyên nhân của hành động hoặc sự việc.,因为中国电影，我开始学习中文。
+G00094,2,连词,跟2,Dùng để liên kết các từ hoặc cụm từ có quan hệ ngữ pháp và ngữ nghĩa.,爸爸跟妈妈都不在家。\n我跟哥哥都在中国上学。
+G00095,2,连词,但、但是、那、虽然、还是2、因为2、所以,"Dùng để liên kết các phân câu hoặc câu, thể hiện quan hệ logic giữa các nội dung.",这家饭馆的菜很好吃，但/但是有点儿贵。\n你不舒服，那就别去了。\n手机虽然不大，但/但是能帮我们做很多事。\n你想喝茶还是喝咖啡？\n因为我最近每天看手机，所以眼睛有点儿不舒服。
+G00096,2,助词,得、地,"Trợ từ kết cấu, dùng để biểu thị quan hệ ngữ pháp giữa các thành phần trong cụm từ hoặc câu.",他汉语说得很好。\n大家正在高兴地唱歌。
+G00097,2,助词,过,"Trợ từ động thái, dùng để biểu thị đặc điểm về thời gian, sự hoàn thành, trải nghiệm hoặc trạng thái của hành động.",你学过中文吗？\n我没去过北京。
+G00098,2,助词,着,"Trợ từ động thái, dùng để biểu thị đặc điểm về thời gian, sự hoàn thành, trải nghiệm hoặc trạng thái của hành động.",他穿着一条黑色的裤子。\n教室的门开着。\n他们唱着歌，跳着舞，非常高兴。
+G00099,2,助词,呢4、吧2、的2、啊1,"Trợ từ ngữ khí, thường đặt ở cuối câu để biểu thị thái độ, cảm xúc hoặc mục đích giao tiếp.",她怎么不在家呢？\n明天你想去哪儿呢？\n这是你的手机吧？\n这么晚了，超市已经关门了吧？\n我是去年九月来中国的。\n我们是在北京认识的。\n他们是坐飞机去上海的。\n今天的晚饭是我做的。\n你汉语说得真好啊！
+G00100,2,结构类型,动补短语1,"Cụm động bổ, gồm động từ và bổ ngữ đứng sau để bổ sung thông tin về kết quả, xu hướng, trạng thái hoặc mức độ của hành động.",听懂、回去、跑得很快、等一下
+G00101,2,结构类型,“的”字短语,"Cụm chữ 的, sử dụng 的 để biến một cụm từ hoặc thành phần miêu tả thành cụm danh từ, thường biểu thị người hoặc sự vật được nhắc đến.",老师的、白色的、便宜的、妈妈做的
+G00102,2,结构类型,连谓短语,"Cụm liên động, gồm hai hoặc nhiều động từ hoặc cụm động từ cùng liên quan đến một chủ thể, biểu thị các hành động có quan hệ với nhau.",来上课、去上海旅游、坐地铁去学校
+G00103,2,结构类型,兼语短语,"Cụm kiêm ngữ, trong đó một thành phần vừa là tân ngữ của động từ trước vừa là chủ thể thực hiện hành động của động từ sau.",请他来、叫朋友帮忙、让妈妈洗衣服
+G00104,2,固定短语,什么的,"什么的 là cách diễn đạt dùng ở cuối danh sách hoặc ví dụ để chỉ những thứ tương tự, mang nghĩa như và những thứ khác.",他喜欢唱歌、跳舞什么的。\n足球、篮球什么的，我都喜欢。
+G00105,2,固定短语,还是……吧,Cấu trúc 还是……吧 dùng để đưa ra lời khuyên hoặc đề xuất lựa chọn một phương án được cho là phù hợp hơn. 吧 đứng cuối câu để làm giọng điệu nhẹ nhàng hơn.,这些菜我都没吃过，还是你点吧。\n你还是去医院看看吧。
+G00106,2,固定短语,要/快要/就要……了,要……了、快要……了 và 就要……了 dùng để diễn tả một sự việc sắp xảy ra trong tương lai gần. Các cấu trúc này thường đi kèm với sự việc hoặc thời điểm sắp đến.,电影要开始了。\n我们快要开学了。\n下星期就要考试了。
+G00107,2,固定短语,都……了,"都……了 dùng để nhấn mạnh một tình huống đã đạt đến mức độ hoặc thời điểm nhất định, thường thể hiện sự ngạc nhiên, nhắc nhở hoặc thúc giục.",都这么晚了，你怎么还不睡觉？\n都十一点了，别看电视了。
+G00108,2,主语,受事主语,"Chủ ngữ chịu tác động của hành động trong câu, thay vì là chủ thể trực tiếp thực hiện hành động. Cấu trúc này thường xuất hiện khi người nói muốn nhấn mạnh đối tượng hoặc sự vật chịu tác động.",水果都吃完了。                                               \n那本书我看过了。
+G00109,2,谓语,名词性短语作谓语,"Vị ngữ có thể là cụm danh từ, dùng để giới thiệu hoặc miêu tả đặc điểm, thân phận, quê quán hay thông tin về chủ ngữ. Trong một số câu, động từ 是 có thể được lược bỏ.",她高个子、大眼睛，很漂亮。\n王老师上海人，四十多岁。
+G00110,2,定语,动词或动词性短语、主谓短语作定语,"Động từ, cụm động từ hoặc cụm chủ vị có thể đứng trước danh từ để làm định ngữ, bổ sung thông tin và xác định rõ đối tượng được nhắc đến. Khi cần, 的 được dùng để nối định ngữ với danh từ trung tâm.",那个唱歌的女孩儿是谁？\n这就是儿子我学习汉语的学校。\n我还不知道电影开始的时间。
+G00111,2,补语,动词+错/懂/好/会/完,"Bổ ngữ kết quả, đứng sau động từ để biểu thị kết quả hoặc trạng thái đạt được sau hành động.",这个字你写错了。\n老师的话你听懂了吗？\n衣服已经洗好了。\n我学会游泳了。\n题太多了，我没做完。
+G00112,2,补语,简单趋向补语的趋向意义用法：动词+来/去,"Bổ ngữ xu hướng, đứng sau động từ để biểu thị hướng di chuyển hoặc hướng của hành động.",你上来吧，我在楼上等你。\n太晚了，你快回去吧。
+G00113,2,补语,简单趋向补语的趋向意义用法：动词+上/下/进/出/过/回,"Bổ ngữ xu hướng, đứng sau động từ để biểu thị hướng di chuyển hoặc hướng của hành động.",飞机飞上天了。\n弟弟跑下楼了。\n老师走进办公室了。\n他从包里拿出一本书。\n我们一起走回学校吧。
+G00114,2,补语,复合趋向补语的趋向意义用法：动词+出来/出去/过来/过去/回来/回去/进来/进去/起来/上来/上去/下来/下去,"Bổ ngữ xu hướng, đứng sau động từ để biểu thị hướng di chuyển hoặc hướng của hành động.",车开过来了，大家快上车。\n她在那边等着呢，咱们走过去吧。\n他从书包里拿出来一本中文书。\n妈妈从超市买回来一些水果。\n王老师我走进教室来了。\n咱们的车能开进学校去吗？\n你可以站起来吗？\n他们怎么还没有走上来？\n你在楼上等我，我给你送上去。\n他们从山上走下来了。\n这些东西你帮我拿下去吧。
+G00115,2,补语,动词+得+形容词性短语,"Bổ ngữ trạng thái, dùng để miêu tả trạng thái hoặc đặc điểm của hành động.",大家玩儿得很高兴。\n他篮球打得很好。
+G00116,2,补语,表示动作持续的时间,"Bổ ngữ số lượng, biểu thị khoảng thời gian hoặc thời lượng của hành động, trạng thái.",我学了两年中文了。\n我等了她一个多小时。\n他们昨天看了一晚上的电视。
+G00117,2,补语,形容词+数量补语,"Bổ ngữ số lượng, biểu thị khoảng thời gian hoặc thời lượng của hành động, trạng thái.",坐地铁比坐公交车快一些。\n我哥哥比我大两岁。
+G00118,2,句型,主谓句4：主谓谓语句,"Câu đơn, có một kết cấu chủ vị chính và diễn đạt một nội dung tương đối hoàn chỉnh.",她个子很高。\n这件事我知道。
+G00119,2,句类,用“还是”连接的选择问句,"Câu nghi vấn, dùng để đặt câu hỏi và yêu cầu thông tin hoặc xác nhận nội dung.",是我自己去，还是你跟我一起去？\n你喜欢打篮球，还是喜欢踢足球？
+G00120,2,句类,用“别”的祈使句,"Câu cầu khiến, dùng để yêu cầu, đề nghị, khuyên bảo hoặc hướng dẫn người khác thực hiện hành động.",下雨了，别出去了。\n别忘了，明天有考试。
+G00121,2,特殊句式,表示说明或特征,“是”字句2,那件衣服是新的。\n这个手机是坏的，不能用。
+G00122,2,特殊句式,表示达到,“有”字句2,王老师有三十岁吗？\n这些水果有一百块钱吗？
+G00123,2,特殊句式,处所+动词+着(+数量短语)+名词,"Câu tồn hiện, dùng để miêu tả sự xuất hiện hoặc tồn tại của người, sự vật tại một địa điểm.",门口站着一个人。\n教室里坐着十几个学生。
+G00124,2,特殊句式,A比B+形容词,"Câu so sánh, sử dụng 比 hoặc 有/没有 để so sánh đặc điểm, mức độ giữa hai đối tượng.",姐姐比我高。\n公交车比地铁便宜。
+G00125,2,特殊句式,A比B+形容词+数量补语/程度补语,"Câu so sánh, sử dụng 比 hoặc 有/没有 để so sánh đặc điểm, mức độ giữa hai đối tượng.",哥哥比我大两岁。\n咖啡比奶茶贵一点儿。\n今天比昨天冷多了。\n姐姐的个子比妹妹高得多。
+G00126,2,特殊句式,A有/没有B（+这么/那么）+形容词,"Câu so sánh, sử dụng 比 hoặc 有/没有 để so sánh đặc điểm, mức độ giữa hai đối tượng.",你有他高吗？\n今天没有昨天（那么）冷。\n我的汉语没有你（这么）好。
+G00127,2,特殊句式,A比B+动词+得+形容词/A+动词+得+比+B+形容词,"Câu so sánh, sử dụng 比 hoặc 有/没有 để so sánh đặc điểm, mức độ giữa hai đối tượng.",她比我说得好。\n我跑得比弟弟快。
+G00128,2,特殊句式,强调时间、地点、方式、动作者,“是……的”句1,我是去年九月来中国的。\n我们是在北京认识的。\n他们是坐飞机去上海的。\n今天的晚饭是我做的。
+G00129,2,特殊句式,表使令：主语+请/叫/让……+宾语1+动词+宾语2,"Câu kiêm ngữ, trong đó tân ngữ của động từ thứ nhất đồng thời là chủ ngữ của động từ thứ hai.",妈妈叫我去超市买水果。\n我想请老师教我中文。\n老师让我们介绍一下自己的爱好。
+G00130,2,特殊句式,主语+动词+给+宾语1+宾语2,"Câu hai tân ngữ, sử dụng cấu trúc động từ kết hợp với 给 để biểu thị hành động chuyển giao cho người nhận.",爸爸送给我一个新手机。\n他卖给我一本中文书。
+G00131,2,复句,（是）……，还是……,"Câu phức lựa chọn, biểu thị sự lựa chọn giữa hai hoặc nhiều khả năng.",你（是）喝茶，还是喝咖啡？\n你（是）喜欢白色的，还是黑色的？
+G00132,2,复句,虽然……，但是……,"Câu phức chuyển ý, biểu thị sự đối lập hoặc tương phản giữa hai vế câu.",虽然学习的时间不长，但是他汉语说得很好。\n学汉语虽然难，但是很有意思。
+G00133,2,复句,因为……，所以……,"Câu phức nhân quả, biểu thị quan hệ nguyên nhân và kết quả giữa các vế câu.",因为机票太贵了，所以我准备坐火车去。\n因为我爸爸在中国工作，所以我来这儿学习中文。
+G00134,2,复句,一……就……,"Câu phức rút gọn, biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần.",他一下课就去打篮球了。\n我一到商场就想买东西。
+G00135,2,动作的态,动词+着：表示状态的持续,"Thể tiếp diễn, biểu thị hành động hoặc trạng thái đang được duy trì trong một khoảng thời gian.",门开着，你进去吧。\n别站着，快请坐。
+G00136,2,动作的态,动词+着：表示动作的持续,"Thể tiếp diễn, biểu thị hành động hoặc trạng thái đang được duy trì trong một khoảng thời gian.",他们正吃着饭呢。\n教室里正上着课呢。
+G00137,2,动作的态,用动态助词“过”表示,"Thể trải nghiệm, biểu thị hành động hoặc sự việc đã từng xảy ra trong quá khứ.",你学过中文吗？\n我没去过北京。
+G00138,2,数的表达法,序数表示法2：数词+量词,"Cấu trúc số từ + lượng từ dùng để biểu thị thứ tự thông qua số tầng, số tuyến hoặc số hiệu. Ví dụ: 三楼 (tầng ba), 304路公交车 (xe buýt tuyến 304).",我的房间在三楼。\n你可以坐304路公交车。
+G00139,2,数的表达法,概数表达法1：用“几”表示概数,"几 được dùng để biểu thị số lượng không xác định hoặc ước chừng. Khi kết hợp với lượng từ hoặc đơn vị số lớn, cấu trúc này có thể diễn tả một số lượng nhất định nhưng không nêu con số chính xác.",这几件衣服你帮我洗一下。\n我们学校有几百名外国学生。
+G00140,2,数的表达法,概数表达法1：数词+多+量词,Cấu trúc số từ + 多 + lượng từ dùng để biểu thị số lượng vượt quá con số được nêu nhưng chưa đạt đến đơn vị kế tiếp. Ví dụ: 二十多个学生 (hơn 20 học sinh).,教室里有二十多个学生。\n那个手机五千多块钱。
+G00141,2,数的表达法,概数表达法1：数词+量词+多,"Cấu trúc số từ + lượng từ + 多 dùng để biểu thị khoảng thời gian, tuổi hoặc số lượng vượt quá con số được nêu. Ví dụ: 三年多 (hơn ba năm), 六岁多 (hơn sáu tuổi).",我来中国已经三年多了。\n王老师的儿子今年六岁多了。
+G00142,3,前缀,老—,"老- là tiền tố đứng trước họ hoặc tên người, thường dùng trong cách gọi thân mật hoặc quen thuộc. Ví dụ: 老李 (anh/chú Lý).",这家饭店的经理老李是我的朋友。
+G00143,3,后缀,—家、—子、—员,家、子、员 là các hậu tố đứng sau từ gốc để tạo thành danh từ. 家 thường chỉ người làm một lĩnh vực hoặc có chuyên môn; 子 thường xuất hiện trong danh từ chỉ sự vật; 员 thường chỉ thành viên hoặc người làm một công việc nhất định.,你听说过这个画家吗？\n屋子有点儿小，可是很干净。\n她以前是一名羽毛球运动员。
+G00144,3,名词,东、南、西、北、北方、东方、南方、西方、中间,"Danh từ chỉ phương vị, biểu thị vị trí hoặc phương hướng.",我听说北方的冬天很冷。\n中国的北方和南方我都去过。\n你们两个人中间的那个人是谁？\n东方人和西方人的生活习惯不太一样。
+G00145,3,动词,需要、该、应该、愿意、得,"Động từ năng nguyện, biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động.",从这儿过去，大概需要多长时间？\n医生说我感冒了，需要吃药。\n已经十一点了，你该睡觉了。\n你学了一天了，该休息休息了。\n我们应该多练习说中文。\n我要去动物园，应该怎么坐车呢？\n你愿意帮我学习汉语吗？\n我很愿意参加这次汉语比赛。\n要上课了，咱们得快点儿走。\n我明天有考试，今天得认真复习。
+G00146,3,动词,动宾式离合词：放假、见面、结婚、洗澡,"Từ ly hợp, có đặc điểm kết hợp giữa động từ và tân ngữ, nhưng có thể được tách ra bởi một số thành phần khác.",我放了假就准备去旅游。\n我们已经很长时间没见过面了。\n结了婚以后，你还打算工作吗？\n你先去洗个澡，休息一会儿。
+G00147,3,动词,动补式离合词：打开、看见、离开、完成、分开,"Từ ly hợp, có đặc điểm kết hợp giữa động từ và tân ngữ, nhưng có thể được tách ra bởi một số thành phần khác.",我打不开这瓶水，你能帮帮我吗？\n黑板上的字你看得见吗？\n他已经离不开这个地方了。\n今天的作业我可能完不成了。\n我的中文越来越好，跟老师的帮助是分不开的。
+G00148,3,代词,怎样,"Đại từ nghi vấn, dùng để hỏi về người, sự vật, số lượng, địa điểm, cách thức hoặc tính chất.",怎样才能学好中文呢？\n他是怎样一个人？
+G00149,3,代词,疑问代词的非疑问用法：任指用法：①疑问代词+都……    ②疑问代词+疑问代词,"Đại từ nghi vấn, dùng để hỏi về người, sự vật, số lượng, địa điểm, cách thức hoặc tính chất.",这次旅行谁都可以参加。\n我最近感冒了，哪儿都没去。\n谁感兴趣谁就去参加。\n你想吃什么就点什么吧。
+G00150,3,代词,疑问代词的非疑问用法：不定指用法,"Đại từ nghi vấn, dùng để hỏi về người, sự vật, số lượng, địa điểm, cách thức hoặc tính chất.",我好像在哪儿见过她。\n你先吃点儿什么再走吧。\n我下周搬家，想请谁来帮帮忙。\n咱们哪天一起去踢足球吧。
+G00151,3,代词,别人、咱们,"Đại từ nhân xưng, dùng để chỉ người hoặc đối tượng tham gia giao tiếp.",我不太清楚，你问问别人吧。\n别人能学好，我也一定能学好。\n咱们明天一起去动物园，怎么样？\n要迟到了，咱们快走吧。
+G00152,3,代词,别的、其他,"Đại từ chỉ thị, dùng để xác định hoặc chỉ rõ người, sự vật, địa điểm và phạm vi.",除了北京，你还去过别的城市吗？\n我喜欢学习别的国家的语言和文化。\n其他同学都回国了，只有我还在中国。\n除了看足球比赛，你还有其他爱好吗？
+G00153,3,量词,专用名量词：把、双、张、种、层、封、页、辆、节、所、班、段、头、句公斤、斤、角、毛、刻、米,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",下雨了，记得带一把伞。\n我在网上买了两双鞋。\n桌子上放着几张照片。\n这里有多少种水果？\n我们的教室在四层。\n我想给我的爸爸妈妈写一封信。\n请大家打开书，第五页。\n那辆黑色的自行车是我的。\n我每周都有一节中文课。\n这个城市一共有三所大学。\n咱们坐下一班地铁走吧。\n请大家用这些词写一段话。\n爷爷家里养了十几头牛。\n这句话是什么意思？\n苹果多少钱一斤/公斤？\n这些一共八块五角（毛）钱。\n现在八点一刻。\n我哥哥身高一米八五。
+G00154,3,量词,借用名量词：碗、盘,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",我要一碗面条和一碗米饭。\n中午我在食堂吃了一盘饺子。
+G00155,3,量词,口、回、遍、声,"Động lượng từ, dùng để biểu thị số lần hoặc số lượt một hành động xảy ra.",他喝了一口茶，然后开始工作。\n我已经说过好几回了，但他还是不记得。\n对不起，我没听懂，请再说一遍。\n她跟我说了一声“谢谢”就走了。
+G00156,3,量词,个个、张张,Lượng từ lặp lại nhằm biểu thị ý nghĩa phân phối hoặc toàn bộ các đơn vị được đề cập.,这些苹果个个都很大。\n他画的画，张张都很漂亮。
+G00157,3,副词,比较、还3、更、特别、挺、有些、越、极,"Phó từ chỉ mức độ, bổ sung ý nghĩa về mức độ hoặc cường độ cho tính từ, động từ hoặc thành phần khác.",这本书的内容比较简单，我读得很快。\n外面太热了，屋子里还凉快一些。\n搬家以后，我们的生活更方便了。\n我弟弟特别喜欢看足球比赛。\n多穿点儿衣服，外面挺冷的。\n孩子这么晚还没回来，妈妈心里有些着急。\n冬天快要到了，天气越来越冷了。\n我对中国历史极有兴趣。\n他工作特别忙，周末极少休息。
+G00158,3,副词,就3、一块儿、一共、只、到处、只是,"Phó từ chỉ phạm vi, biểu thị phạm vi bao quát, giới hạn hoặc đối tượng được đề cập.",我就要两斤苹果，不要别的。\n办公室里就张老师一个人。\n你跟我一块儿去图书馆，好吗？\n我们经常一块儿踢足球。\n你们班一共有多少留学生？\n这些水果一共多少钱？\n我只有一个哥哥，没有弟弟妹妹。\n她只说了自己的名字，没说别的。\n公园里到处都是锻炼身体的老人。\n她只是笑了笑，一句话也没说。
+G00159,3,副词,才1、马上、先、一会儿、刚、刚刚、一直,"Phó từ chỉ thời gian, biểu thị thời điểm, thời gian hoặc trình tự xảy ra của hành động.",他才到家，还没有吃饭呢。\n我才搬来北京，还不太习惯这里的生活\n请等一下，我马上来。\n接了电话，她马上就跑出去了。\n你先走吧，我还有工作要做。\n我想先洗个澡，然后再写作业。\n最近天气变化很快，一会儿阴，一会儿晴。\n他刚开始学汉语，说得还不太好。\n报纸是早上刚送来的。\n刚刚还是晴天，怎么突然下雨了？\n他不在，刚刚出去。\n我一直都住在北京。\n别出去了，外面一直在下雨。
+G00160,3,副词,总、总是、又、常常,"Phó từ chỉ tần suất, biểu thị mức độ thường xuyên hoặc số lần hành động xảy ra.",一到冬天，孩子就总生病。\n上学的时候，我总是让爸爸开车送我。\n那个电影太有意思了，我昨天又看了一遍。\n下课以后，我常常去体育馆打篮球。
+G00161,3,副词,一边,"Phó từ liên kết, biểu thị mối quan hệ giữa các hành động hoặc thành phần trong câu.",孩子们高兴地一边唱歌一边跳舞。\n我想找一个工作，一边工作一边学习。
+G00162,3,副词,大概、必须、差不多、一定、好像、几乎,"Phó từ tình thái, biểu thị phỏng đoán, đánh giá, mức độ chắc chắn hoặc thái độ của người nói.",他大概已经回家了。\n你们学校大概有多少留学生？\n我必须做完才能下班。\n老师要求我们必须每天复习。\n我学习中文差不多三年了。\n我跟哥哥差不多高。\n放心，我一定不会迟到。\n我明天不一定有时间。\n她好像没有明白我的意思。\n我好像在哪里见过她。\n他几乎每天都去图书馆学习。\n他太忙了，几乎没有时间休息。
+G00163,3,副词,当然、其实、终于、才2、才3、就4,"Phó từ ngữ khí, bổ sung sắc thái biểu cảm, đánh giá hoặc thái độ của người nói.",我当然愿意帮助你。\n当然没问题，欢迎你参加。\n这个问题其实不难。\n我以为他回国了，其实他一直在中国。\n经过一年多的努力，工作终于完成了。\n考试终于都结束了，我太开心了。\n课文有点儿难，我读了三遍才2明白。\n这些旧书才3卖了二十多块钱。\n她今天六点半就起床了。\n这个句子不难，我听一遍就懂了。
+G00164,3,副词,不必、不用,"Phó từ phủ định, dùng để phủ định hành động, trạng thái hoặc nội dung được diễn đạt.",你可以用手机买票，不必去车站，非常方便。\n不用担心，我们帮你一起准备。
+G00165,3,介词,为1、向1、关于,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,生日快乐，这是我为你做的蛋糕。\n大家为这次比赛做了很多准备。\n如果你不能去上课，应该向老师请假。\n老师让我们向她学习。\n关于这个问题，我们还需要认真讨论。\n关于比赛的时间，我明天一定告诉大家。
+G00166,3,介词,向2,"Giới từ dùng để biểu thị phương hướng, tuyến đường hoặc điểm di chuyển.",他向门口走去，好像准备离开。\n老师让大家看向前边。
+G00167,3,介词,为了、为2,"Giới từ dùng để biểu thị mục đích hoặc nguyên nhân của hành động, sự việc.",为了身体健康，我们应该坚持锻炼。\n妈妈经常为了工作睡得很晚。\n大家都为我的好成绩感到高兴。\n同学们都在为下个星期的考试做准备。
+G00168,3,介词,把、被,Giới từ dùng để dẫn ra chủ thể thực hiện hành động hoặc đối tượng chịu tác động của hành động.,你把箱子放在这儿吧。\n我的自行车被朋友借走了。
+G00169,3,介词,根据,"Giới từ dùng để biểu thị phương tiện, căn cứ hoặc cơ sở thực hiện hành động.",大家可以根据兴趣选择自己喜欢的运动。\n根据要求，我们必须参加明天的会议。
+G00170,3,连词,或、或者,Dùng để liên kết các từ hoặc cụm từ có quan hệ ngữ pháp và ngữ nghĩa.,我喝茶或/或者咖啡都可以。\n我们可以打车或/或者坐地铁去。
+G00171,3,连词,只有、只要、不但、而且、如果、可1、可是、然后,"Dùng để liên kết các phân câu hoặc câu, thể hiện quan hệ logic giữa các nội dung.",只有大家一起想办法，才能解决这个问题。\n只要你想学，就一定能学好。\n我不但学习了中文，而且认识了很多新朋友。\n如果你有时间，我想请你参加我的生日晚会。\n她特别想来中国看看，可一直没有合适的机会。\n我很早就到了机场，可是没想到飞机晚点了。\n你先去那边买票，然后过来找我。
+G00172,3,助词,的话,"Trợ từ có chức năng ngữ pháp đặc thù, cần căn cứ vào từng cấu trúc cụ thể để xác định cách sử dụng.",你喜欢的话，就送给你吧。\n如果明天下雨的话，我们就不去爬山了。
+G00173,3,结构类型,同位短语,"Cụm đồng vị, gồm hai thành phần cùng chỉ một người, sự vật hoặc đối tượng, trong đó thành phần sau bổ sung hoặc giải thích cho thành phần trước.",首都北京、她一个人、我们学生
+G00174,3,结构类型,动补短语2,"Cụm động bổ, trong đó bổ ngữ đứng sau động từ để bổ sung thông tin về kết quả, khả năng, xu hướng hoặc trạng thái của hành động.",漂亮极了、累坏了、看不懂、写得完
+G00175,3,结构类型,数量重叠：数词+量词+数词+量词,"Cấu trúc lặp số lượng từ, sử dụng mô hình số từ + lượng từ + số từ + lượng từ để biểu thị sự phân phối hoặc lặp lại theo từng đơn vị.",工作要一步一步地做。\n老师一句一句地教我们读课文。
+G00176,3,固定短语,不A 不 B,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",这件衣服不大不小，特别合适。\n最近天气不冷不热，很舒服。
+G00177,3,固定短语,不一会儿,"不一会儿 là cụm từ chỉ một khoảng thời gian ngắn, mang nghĩa chẳng bao lâu hoặc chỉ một lúc sau.",不一会儿，张校长就来了。\n时间不一会儿就过去了。
+G00178,3,固定短语,看来,"看来 là từ biểu thị sự phán đoán hoặc nhận xét của người nói dựa trên thông tin, tình hình đã biết, thường mang nghĩa xem ra hoặc có vẻ như.",电梯坏了，看来咱们只能走楼梯了。\n这么晚了，看来他今天不会来了。
+G00179,3,固定短语,在……看来,"在……看来 biểu thị góc nhìn hoặc quan điểm đánh giá của một người về sự việc, có nghĩa là theo quan điểm của...",在同事们看来，她对工作非常认真。\n在我看来，坚持读书是一种很好的习惯。
+G00180,3,固定短语,越来越,"越来越 biểu thị mức độ hoặc tình trạng thay đổi theo chiều hướng tăng dần, có nghĩa là ngày càng.",听说学习中文的年轻人越来越多。\n我越来越习惯这里的生活了。
+G00181,3,固定短语,看起来,"看起来 dùng để đưa ra nhận xét hoặc phán đoán dựa trên biểu hiện bên ngoài, thường mang nghĩa trông có vẻ hoặc xem ra.",这些菜看起来都很好吃。\n那个新来的老师看起来很年轻。
+G00182,3,固定短语,看上去,"看上去 dùng để mô tả nhận xét về diện mạo hoặc biểu hiện có thể quan sát được, thường mang nghĩa trông có vẻ.",这道题看上去很难，其实很简单。\n她看上去不像五十多岁的人。
+G00183,3,固定短语,一般来说,"一般来说 dùng để đưa ra nhận định khái quát hoặc quy luật chung, có nghĩa là nói chung hoặc nhìn chung.",一般来说，早上锻炼身体比较好。\n一般来说，学习外语需要多练习。
+G00184,3,固定短语,不怎么样,"不怎么样 biểu thị mức độ không cao hoặc đánh giá không tích cực, thường mang nghĩa không được tốt lắm hoặc chẳng ra sao.",我觉得这些照片照得不怎么样。\n虽然考试前我复习了很长时间，但是成绩不怎么样。
+G00185,3,固定短语,除了 ……（以外），……还/也/都……,"Cấu trúc 除了……（以外），……还/也/都…… dùng để bổ sung hoặc loại trừ thông tin. Khi kết hợp với 还 hoặc 也, cấu trúc thường nhấn mạnh một sự việc được bổ sung; khi kết hợp với 都, có thể nhấn mạnh phạm vi hoặc đối tượng được bao quát.",除了看新闻（以外），人们还/也可以在网上看电影、买东西。\n除了北京（以外），别的城市我都没去过。
+G00186,3,固定短语,从……起,"Cấu trúc 从……起 dùng để xác định thời điểm bắt đầu của một hành động, trạng thái hoặc khoảng thời gian. 起 đứng sau mốc thời gian để nhấn mạnh sự bắt đầu từ thời điểm đó.",从那天起，我们就变成了好朋友。\n从现在起，我一定要努力学习。
+G00187,3,固定短语,对……来说,Cấu trúc 对……来说 dùng để nêu quan điểm hoặc đánh giá của một người đối với sự việc nào đó. Thành phần đứng sau 对 thường là người hoặc đối tượng làm căn cứ cho nhận xét.,对他来说，这个机会非常重要。\n对我来说，学习汉语很有意思。
+G00188,3,固定短语,一……也/都+不/没……,"Cấu trúc 一……也/都+不/没…… dùng để nhấn mạnh sự phủ định hoàn toàn. 一 kết hợp với lượng từ hoặc danh từ, còn 也/都 tăng cường ý nghĩa không có bất kỳ đối tượng hoặc hành động nào.",来中国以前，我一句汉语也不会说。\n你说的这些地方我一个都没去过。
+G00189,3,固定短语,一点儿也不,"Cấu trúc 一点儿也不 dùng để nhấn mạnh mức độ phủ định, biểu thị hoàn toàn không có đặc điểm hoặc trạng thái được nói đến. Thường dùng trước tính từ.",快要考试了，你怎么一点儿也不着急？\n今天天气很好，一点儿也不冷。
+G00190,3,固定短语,越……越……,Cấu trúc 越……越…… biểu thị hai sự việc hoặc đặc điểm thay đổi tương ứng với nhau: một yếu tố càng tăng hoặc thay đổi thì yếu tố còn lại cũng thay đổi theo.,我想认识中国朋友，越多越好。\n医生让我多休息，休息得越多，好得越快。
+G00191,3,固定短语,（在）……以前/以后/前/后,"以前、以后、前、后 được dùng để xác định thời điểm trước hoặc sau một mốc thời gian hay sự kiện. 以前/以后 thường đứng sau mốc thời gian hoặc sự kiện; 前/后 thường kết hợp với danh từ hoặc cụm từ chỉ thời gian, sự kiện.",考试以前，你一定要认真复习。\n来到中国以后，我慢慢习惯了这里的生活。\n睡觉前别忘记吃药。\n放学后，我要参加留学生篮球比赛。\n在离开中国以前，我一定要去长城看看。
+G00192,3,固定短语,X什么(啊),"Cấu trúc X什么（啊） thường được dùng trong câu hỏi tu từ hoặc câu cảm thán để phản bác, phủ nhận hoặc thể hiện sự không đồng tình với điều vừa được nói đến. Tùy ngữ cảnh, câu có thể mang sắc thái ngạc nhiên hoặc trách móc.",难过什么啊，你的成绩不是挺好的吗？\n方便什么啊，附近一个超市都没有。
+G00193,3,固定短语,该……了,Cấu trúc 该……了 dùng để diễn tả đã đến lúc cần hoặc nên thực hiện một hành động. Thường dùng khi thời điểm thích hợp đã đến hoặc một công việc cần được tiến hành.,八点了，该上课了。\n下周要考试，我该复习了。
+G00194,3,固定短语,在……上/下/中,"Các cấu trúc 在……上、在……下、在……中 dùng để xác định phạm vi, phương diện hoặc hoàn cảnh của một sự việc. 上 thường chỉ phương diện; 下 thường chỉ điều kiện hoặc ảnh hưởng; 中 thường chỉ quá trình hoặc phạm vi bên trong.",在学习上，老师和同学给了我许多帮助。\n在父母的影响下，我从小就对中文很感兴趣。\n在这次比赛中，我认识了一些新朋友。
+G00195,3,主语,动词或动词性短语、形容词或形容词性短语作主语,"Chủ ngữ có thể do động từ, cụm động từ, tính từ hoặc cụm tính từ đảm nhiệm. Thành phần này thường biểu thị một hành động, trạng thái hoặc đặc điểm được đem ra nhận xét trong câu.",哭没有用。\n多穿一点儿比较好。\n太胖了不好，太瘦了也不好。
+G00196,3,主语,主谓短语作主语,"Cụm chủ vị có thể đảm nhiệm chức năng chủ ngữ trong câu. Cụm này gồm một thành phần nêu đối tượng và một thành phần nêu hành động, trạng thái hoặc đặc điểm của đối tượng đó.",你来也可以。\n身体健康最重要。
+G00197,3,定语,多项定语,"Nhiều định ngữ có thể cùng bổ nghĩa cho một danh từ. Các định ngữ thường được sắp xếp theo quan hệ từ thông tin xác định, sở hữu, số lượng đến đặc điểm, tính chất và hành động; 的 có thể được sử dụng để nối định ngữ với danh từ trung tâm.",我昨天新买的那条黑色的裤子你放在哪儿了？                 \n前面那个穿着蓝衬衫的短头发高个子的老人就是我的中文老师。
+G00198,3,补语,动词+到/住/走/上,"Bổ ngữ kết quả, biểu thị kết quả phát sinh từ hành động thông qua các cách dùng mở rộng của bổ ngữ xu hướng.",火车票你买到了没有？\n老师说的话我都记住了。\n我的自行车让朋友骑走了。\n下班的时候，别忘了关上电脑。
+G00199,3,补语,趋向补语的引申用法：表示结果意义：动词+出/起/下,Bổ ngữ xu hướng được dùng theo nghĩa mở rộng để biểu thị kết quả của hành động hoặc sự thay đổi trạng thái.,我们终于想出了一个好办法。               \n你想起她的名字了没有？                \n请在这儿写下您的电话。
+G00200,3,补语,趋向补语的引申用法：表示动作行为的开始：动词+上/起来,Bổ ngữ xu hướng được dùng theo nghĩa mở rộng để biểu thị kết quả của hành động hoặc sự thay đổi trạng thái.,饿了一天，我们终于吃上饭了。\n儿子刚到家就玩上了电脑游戏。\n他们一见面就聊起来了。\n妈妈一出门，孩子就哭起来了。
+G00201,3,补语,趋向补语的引申用法：表示动作行为的持续：动词+下去/下来,Bổ ngữ xu hướng được dùng theo nghĩa mở rộng để biểu thị kết quả của hành động hoặc sự thay đổi trạng thái.,虽然学习汉语不容易，但是我一定会坚持下去。\n在老师的帮助下，我一定可以学下去。\n在过去的一年里，我把每天练习汉字的习惯坚持下来了。\n这三天玩下来太累了，我得好好休息休息。
+G00202,3,补语,动词+得/不+动词/形容词,"Bổ ngữ khả năng, biểu thị hành động có thể hoặc không thể đạt được kết quả.",老师说的话你听得懂吗？\n黑板上的字太小，我看不清楚。
+G00203,3,补语,形容词+得很,"Bổ ngữ mức độ, biểu thị mức độ hoặc cường độ của đặc điểm, trạng thái.",这里的环境好得很。\n这儿从早到晚都有风，凉快得很。
+G00204,3,补语,形容词/动词+极了/坏了,"Bổ ngữ mức độ, biểu thị mức độ hoặc cường độ của đặc điểm, trạng thái.",看见考试成绩的时候，我高兴极了。\n爬山回来，大家都累坏了。
+G00205,3,补语,表示动作结束到某个时间点的间隔时间,"Bổ ngữ số lượng, biểu thị khoảng thời gian tính từ khi hành động kết thúc đến một thời điểm nhất định.",开学已经两个星期了。\n这件事已经过去五年了。
+G00206,3,句类,“怎样+动词”的特指问句,"Câu nghi vấn, dùng để đặt câu hỏi và yêu cầu thông tin hoặc xác nhận nội dung.",怎样才能学好汉语呢？\n中国人是怎样过新年的？
+G00207,3,句类,用反问句表示强调：不是……吗？,"Câu phản vấn, sử dụng hình thức câu hỏi để nhấn mạnh một nhận định hoặc thái độ.",你不是写完作业了吗？\n考试不是下个星期一吗？
+G00208,3,特殊句型,主语+把+宾语+动词+在/到+处所,“把”字句1,你把箱子放在这儿吧。\n我们把桌子搬到教室外边了。
+G00209,3,特殊句型,主语+把+宾语1+动词（+给）+宾语2,“把”字句1,我们把礼物送给老师了。\n他把那本书借给我了。
+G00210,3,特殊句型,主语+把+宾语+动词+结果补语/趋向补语/状态补语,“把”字句1,我已经把晚饭准备好了。\n咱们把这些桌子搬进去吧。\n妈妈把衣服洗得干干净净。
+G00211,3,特殊句型,主语+被+宾语+动词+其他成分,"Câu bị động, dùng để biểu thị chủ thể chịu tác động của hành động.",我的词典被朋友借走了。\n冰箱里的水果被谁吃了？
+G00212,3,特殊句型,主语+被+动词+其他成分,"Câu bị động, dùng để biểu thị chủ thể chịu tác động của hành động.",桌子上的作业被拿走了。\n病人已经被送到医院了。
+G00213,3,特殊句型,“着”表示动作的伴随：动词1+着+动词2,"Câu liên động, trong đó một hành động được thực hiện đồng thời hoặc đi kèm với hành động khác.",老师总是笑着回答大家的问题。\n我喜欢听着音乐做运动。
+G00214,3,特殊句型,A比B+更/还+形容词,"Câu so sánh, sử dụng các cấu trúc như 比 và 跟……一样 để biểu thị sự hơn kém hoặc tương đồng.",她的汉语比我更好。\n今天比昨天还冷。
+G00215,3,特殊句型,A跟B一样,"Câu so sánh, sử dụng các cấu trúc như 比 và 跟……一样 để biểu thị sự hơn kém hoặc tương đồng.",我的爱好跟他一样。\n他买的新手机跟我的一样。
+G00216,3,特殊句型,A跟B一样+形容词,"Câu so sánh, sử dụng các cấu trúc như 比 và 跟……一样 để biểu thị sự hơn kém hoặc tương đồng.",坐地铁跟坐公交车一样方便。\n这个房间跟那个房间一样大。
+G00217,3,特殊句型,A不比B+形容词,"Câu so sánh, sử dụng các cấu trúc như 比 và 跟……一样 để biểu thị sự hơn kém hoặc tương đồng.",这张画不比那张好看。\n我的汉语水平不比他高。
+G00218,3,特殊句型,A比B+多/少/早/晚+动词+数量短语,"Câu so sánh, sử dụng các cấu trúc như 比 và 跟……一样 để biểu thị sự hơn kém hoặc tương đồng.",我比他早到十分钟。\n哥哥比弟弟多吃了三个饺子。
+G00219,3,特殊句型,表示出现：处所词+动词+趋向补语/结果补语+动态助词（了）+数量短语+人/物,"Câu tồn hiện, dùng để diễn đạt sự xuất hiện hoặc biến mất của người, sự vật tại một địa điểm.",前边开过来一辆出租车。   \n楼上搬来了一家人。\n校门外走进来几个学生。
+G00220,3,特殊句型,表示消失：处所词+动词+结果补语+动态助词（了）+数量短语+人/物,"Câu tồn hiện, dùng để diễn đạt sự xuất hiện hoặc biến mất của người, sự vật tại một địa điểm.",树上飞走了三只小鸟。                    \n他家里跑丢了一只羊。
+G00221,3,特殊句型,强调说话人的看法或态度,“是……的”句2,这个问题其实是很简单的。\n多写多练对学习汉字是很有帮助的。
+G00222,3,特殊句型,主语+动词+宾语+动词+补语,"Câu trùng động, trong đó động từ được lặp lại hoặc xuất hiện ở hai vị trí để bổ sung thông tin về hành động.",我们昨天打篮球打了一个下午。\n你今天上课上得怎么样？
+G00223,3,复句,先……，再/然后……,"Câu phức nối tiếp, biểu thị các hành động hoặc sự việc xảy ra theo trình tự.",你先去买门票，再来这里找我。\n我想先吃饭，然后回房间休息。
+G00224,3,复句,或者……，或者……,"Câu phức lựa chọn, biểu thị sự lựa chọn giữa hai hoặc nhiều khả năng.",每周末，我们或者踢足球，或者打篮球。\n春节的时候，人们或者回家过节，或者出门旅游。
+G00225,3,复句,一会儿……，一会儿……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",他一会儿进来，一会儿出去，忙得很。\n最近的天气一会儿冷，一会儿热。
+G00226,3,复句,又……，又……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",这件衣服又便宜又好看。\n那个又高又漂亮的女孩儿是谁？
+G00227,3,复句,一边……，一边……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",他一边工作，一边学习中文。\n我喜欢一边跑步，一边听音乐。
+G00228,3,复句,不但……，而且……,"Câu phức tăng tiến, trong đó vế sau bổ sung hoặc nhấn mạnh nội dung ở mức độ cao hơn vế trước.",不但我学习中文，而且我的弟弟也学习中文。\n我哥哥不但会打篮球，而且打得很好。
+G00229,3,复句,虽然……，可是……,"Câu phức chuyển ý, biểu thị sự đối lập hoặc tương phản giữa hai vế câu.",房间虽然不大，可是很干净。\n虽然天气很冷，可是他还是坚持每天锻炼。
+G00230,3,复句,如果……，就……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",如果明天不下雨，我们就去爬山。\n如果你需要帮忙，就给我打电话。
+G00231,3,复句,……的话，就……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",你有时间的话，就一起去吧。\n你觉得满意的话，咱们就买。
+G00232,3,复句,只有……，才……,"Câu phức điều kiện, biểu thị điều kiện cần có để một sự việc hoặc hành động xảy ra.",只有努力学习，才能得到好成绩。\n只有多听、多说、多看，你的中文水平才能提高。
+G00233,3,复句,只要……，就……,"Câu phức điều kiện, biểu thị điều kiện cần có để một sự việc hoặc hành động xảy ra.",只要你坚持学习，就一定能学好。\n只要你同意，我们就这么决定了。
+G00234,3,复句,为了……，……,"Câu phức mục đích, biểu thị mục đích mà hành động hoặc sự việc hướng tới.",为了考上大学，她每天努力学习。\n为了早点儿到家，我打算坐飞机。
+G00235,3,复句,……了……（就）……,"Câu phức rút gọn, biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần.",他吃了药就好多了。\n我打算下了课就去图书馆。
+G00236,3,数的表达法,概数表达法2：用“大概”表示概数,"大概 được dùng để biểu thị số lượng, thời gian hoặc mức độ ước chừng, không hoàn toàn chính xác. Từ này thường đứng trước con số hoặc thông tin ước lượng.",你大概多长时间能到？\n这些水果大概五十块钱。
+G00237,3,数的表达法,概数表达法2：相邻数词连用表示概数,"Hai số từ gần nhau được đặt cạnh nhau để biểu thị một con số ước chừng nằm trong khoảng giữa chúng. Ví dụ: 七八个 (khoảng bảy hoặc tám), 十五六分钟 (khoảng mười lăm đến mười sáu phút).",教室里来了七八个学生。\n从我家到学校，走路需要十五六分钟。
+G00238,4,动词,敢,"Động từ năng nguyện, biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động.",我刚学会开车，不敢开得很快。\n你敢不敢跟我比一比，谁的力气大？
+G00239,4,代词,各、各位、各种、任何、此,"Đại từ chỉ thị, dùng để xác định hoặc chỉ rõ người, sự vật, địa điểm và phạm vi.",对于这个问题，同学们各有各的看法。\n节日期间，各地举行了丰富的庆祝活动。\n各位同学，请大家安静一下。\n欢迎各位报名参加这次运动会。\n南方各种花都开了，可是北方还比较冷。\n商场、超市总是通过各种方式吸引顾客。\n你遇到任何困难都可以联系我。\n在中国，几乎任何一家商店都可以使用手机支付。\n此处不能扔垃圾，请扔到垃圾桶里。\n对于此事，你的父母有什么意见？
+G00240,4,量词,专用名量词：打、袋、棵、台、幅,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",昨晚老张买了一打啤酒。\n我买了一打鸡蛋，准备做蛋糕。\n我这儿有一袋方便面，你要不要吃？\n妈妈从市场买回来好几袋水果。\n我家院子里种着两棵苹果树。\n小猫爬上了路边的一棵大树。\n这台空调太旧了，没办法修。\n搬家时，我把家里那台冰箱卖了。\n您能介绍一下这幅画吗？\n张老师，我想请您给我写一幅字。
+G00241,4,量词,借用名量词：脸、手、盒、屋子、桌子,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",她拿着礼物，一脸兴奋地跑了进来。\n小明见到了自己喜欢的作家，满脸高兴。\n我不知道从哪儿弄了一手油。\n他从小练习书法，写得一手好字。\n我从国外买回来一盒巧克力。\n老师让我们准备一盒画笔。\n我非常喜欢读书，家里有一屋子的书。\n我有一屋子的衣服，你随便选。\n听到这个消息，一桌子的人都很开心。\n我每次回家，父母都会准备一桌子饭菜。
+G00242,4,量词,场、顿、趟,"Động lượng từ, dùng để biểu thị số lần hoặc số lượt một hành động xảy ra.",大卫参加了一场文化活动，体验了美食和音乐。\n同学们都想在中国观看一场京剧演出。\n周末咱们去饭馆好好吃一顿，怎么样？\n中秋节我们一起吃了一顿饭。\n我假期打算回一趟家，看看父母。\n我刚才去了一趟办公室，没看见王老师。
+G00243,4,副词,十分、更加、稍、稍微、尤其、多么,"Phó từ chỉ mức độ, bổ sung ý nghĩa về mức độ hoặc cường độ cho tính từ, động từ hoặc thành phần khác.",她十分激动地对我们表示感谢。\n那位导游对游客十分热情。\n随着互联网的发展，网上购物变得更加方便了。\n读完这本书，他对中国历史更加感兴趣了。\n请您在这儿稍等一下，王经理马上就到。\n对于这个词，两本词典的解释稍有不同。\n如果裙子的颜色稍微浅一点儿，那就更好了。\n你能不能把字写得稍微大一些？\n人与人之间，尤其是父母和孩子之间，相互理解是很重要的。\n刚开始，我对这里的生活很不适应，尤其不习惯吃中国菜。\n你听，她唱得多么好听啊！\n成为母亲以后，我才明白教育孩子有多么不容易。
+G00244,4,副词,共、全、光、仅、仅仅、至少,"Phó từ chỉ phạm vi, biểu thị phạm vi bao quát, giới hạn hoặc đối tượng được đề cập.",上一年大学，学费和生活费共需多少钱？\n中国人习惯一家人共吃一桌菜。\n昨天学习的生词和语法我已经全记住了。\n全班同学都报名参加了这次的运动会。\n光这一间教室，他就打扫了一整天。\n你不能光练口语，不练汉字，这样你的中文水平很难提高。\n这个公园平时不开，仅在周末开放。\n他仅用一年多的时间就学完了高中所有的课程。\n她仅仅去过一次，就深深地爱上了那里。\n你想学好中文，仅仅有想法是不够的，必须努力学习。\n你们两个人一起去，遇到问题至少能商量一下。\n那里的景点很多，都参观完至少要三天的时间。
+G00245,4,副词,按时、从来、赶紧、赶快、已、忽然、将、将要、从、本来,"Phó từ chỉ thời gian, biểu thị thời điểm, thời gian hoặc trình tự xảy ra của hành động.",时间很紧张，但我们必须按时完成任务。\n医生让我回家按时吃药，多喝热水。\n我从来没有离开过家乡，父母不放心我一个人出国留学。\n我常常吃饺子，可是从来不知道饺子是怎么做的。\n服务员见到我们，赶紧跑过来，热情地说“欢迎”。\n这儿的风景太漂亮了，我得赶紧拍几张照片。\n咱们赶快往前走，大家都在前面等着呢。\n你现在赶快叫一辆出租车，马上出发。\n到今年十月，公司的收入已超过去年。\n他的父亲已有五十多岁，两个姐姐也都已结婚了。\n看着儿子努力学习的样子，我忽然觉得他长大了。\n忽然，我听到一个声音说“小伙子，等一等”。\n比赛一结束，他就将自己获奖的消息告诉了父母。\n如果孩子学到自己感兴趣的知识，他的能力将得到更好的发展。\n根据计划，公司下周将要推出新产品。\n学校最近将要安排我们到南方进行调查研究。\n我从没有听说过这个消息。\n父母总是鼓励我，从不批评我。\n我本来计划学习一年中文就回国工作，现在我想继续学下去。\n我本来以为父母会反对我留在中国，没想到他们竟然这么支持。
+G00246,4,副词,重新、往往、偶尔、再次、老,"Phó từ chỉ tần suất, biểu thị mức độ thường xuyên hoặc số lần hành động xảy ra.",我们需要重新安排会议时间。\n这个问题，您能不能重新考虑一下？\n其实，一些看起来很小的事情往往会影响人的一生。\n这两个词意思差不多，如果不知道它们的区别，往往容易用错。\n他平时工作很忙，回家以后看看书、上上网，偶尔运动一下，就睡觉了。\n我们偶尔会一起出去玩儿，有时候看电影，有时候踢足球。\n老师再次提醒同学们考试以前一定要认真复习。\n再次回到童年时生活的地方，我感到既熟悉又感动。\n他老说要跟同学们多交流，可是从来不参加班级活动。\n大家的工作都很忙，你老想让别人照顾你，是不可能的。
+G00247,4,副词,故意、互相、相互,"Phó từ chỉ phương thức, biểu thị cách thức hoặc thái độ thực hiện hành động.",真对不起，我不是故意的，你千万别生气。\n他故意提高声音，好让大家都能听见。\n我想练习中文，咱们互相学习，互相帮助，怎么样？\n大家都是同学，应该互相关心，互相照顾。\n国家之间应该相互尊重，相互交流，共同发展。\n随着信息技术的发展，不同语言的相互影响越来越普遍。
+G00248,4,副词,却,"Phó từ liên kết, biểu thị mối quan hệ giữa các hành động hoặc thành phần trong câu.",有些打折的商品尽管便宜，质量却不能让人满意。\n她长得很像她的姐姐，但两个人的性格却完全不同。
+G00249,4,副词,也许、恐怕,"Phó từ tình thái, biểu thị phỏng đoán, đánh giá, mức độ chắc chắn hoặc thái độ của người nói.",你可以加一点儿糖，味道也许不错。\n现在不愿意花时间练习写汉字，你将来也许会后悔的。\n我感觉头疼，还有点儿咳嗽，恐怕是感冒了。\n年底是公司最忙的时候，你想休假恐怕不行。
+G00250,4,副词,才4、就5、并1、还4、竟然、究竟、正好、到底、难道、千万、确实、只好、差（一）点儿,"Phó từ ngữ khí, bổ sung sắc thái biểu cảm, đánh giá hoặc thái độ của người nói.",昨天那场比赛才精彩呢！\n他总是迟到，我才不相信他今天能准时来。\n我就知道他肯定会答应的。\n我就不信我考不上大学。\n她并不相信我说的话。\n我以为考试很简单，其实并没有那么简单。\n没想到他的中文说得还真不错。\n老张还真厉害，这么快就把问题解决了。\n他竟然在那么短的时间内完成了这么复杂的工作，太厉害了。\n昨天天气还很暖和，没想到今天竟然下雪了。\n他究竟是不是真的喜欢我，我还是有些怀疑。\n我很想知道汉字究竟是怎么产生的。\n我明天下午正好有时间，可以帮你一起搬家。\n上个月我借了一本书，今天正好一个月了，你帮我还回去吧。\n明天就是最后一天了，你到底想不想报名？\n昨天的比赛你看了吗？他们队到底赢了没有？\n难道你不知道坐飞机需要带护照吗？\n你难道不认为网上购物更方便吗？\n你把地址写在这儿，千万别写错了。\n路上人多车也多，骑车时千万要小心。\n昨天晚上的京剧演出确实精彩。\n跟过去相比，这里确实发生了巨大的变化。\n电梯坏了，我们只好走楼梯上去。\n因为没买到火车票，我假期只好留在学校。\n出门的时候太着急，我差（一）点儿忘带手机。\n我早上七点半才起床，差（一）点儿没迟到。
+G00251,4,介词,自、当、由1、随着、等1,Giới từ dùng để dẫn ra thời gian hoặc địa điểm liên quan đến hành động.,自1978年以来，中国发生了很大的变化。\n我们自北京出发，开车往南走，来到了上海。\n当遇到困难时，先冷静地想一想。\n当听到放假的消息时，同学们都非常高兴。\n各位乘客，由北京飞往上海的航班就要起飞了。\n学校决定由下个月开始每周增加一节中文课。\n随着生活水平的提高，人们对食品健康的要求越来越高。\n随着春天的到来，天气一天比一天暖和了。\n等我写完作业，咱们一起去踢足球。\n等我们赶到车站，火车已经开走了。
+G00252,4,介词,将、由2、叫、让,Giới từ dùng để dẫn ra chủ thể thực hiện hành động hoặc đối tượng chịu tác động của hành động.,离开教室时，请将垃圾带走，并将门窗关好。\n根据规定，禁止将食物带入图书馆。\n这些商品的质量问题应该由工厂负责。\n我只是提供一些建议，到底怎么做由你决定。\n我刚才放在桌上的那些文件叫谁拿走了？\n我本来想去图书馆借书，可是学生证让我弄丢了。
+G00253,4,介词,由于1,Giới từ dùng để dẫn ra nguyên nhân của hành động hoặc sự việc.,由于上次失败的经历，她对自己失去了信心。\n由于工作的原因，我一年内搬了好几次家。
+G00254,4,介词,对于、与1,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,对于任何一种语言，文字的出现都是十分重要的。\n对于学习成绩优秀的同学，学校每年都会提供奖学金。\n你放心，我们会与你共同解决这个问题。\n这件事我没与任何人交流过。
+G00255,4,介词,作为、按、按照,"Giới từ dùng để biểu thị phương tiện, căn cứ hoặc cơ sở thực hiện hành động.",作为生活在中国的外国人，我很想了解中国人的生活习惯。\n作为首都，北京的发展比一般的城市更快，工作机会更多。\n你应该按医生说的方法坚持锻炼。\n这里租房子比较方便，房租可以按月付，也可以按天付。\n按照北方人的习惯，过年一般要吃饺子。\n我们已经按照计划完成了全部工作。
+G00256,4,连词,并2、而1、与2,Dùng để liên kết các từ hoặc cụm từ có quan hệ ngữ pháp và ngữ nghĩa.,学校同意并支持学生们的想法。\n公司讨论并通过了这项计划。\n这里的人民热情而友好。\n她工作起来积极而努力。\n学校与家庭对孩子的影响同样重要。\n课程目标是帮助学生提高阅读能力与听说能力。
+G00257,4,连词,此外、而2、既然、甚至、不过、并且,"Dùng để liên kết các phân câu hoặc câu, thể hiện quan hệ logic giữa các nội dung.",我每天要上两节中文课，此外一周还要参加一次文化活动。\n我来中国是想提高自己的汉语水平，此外还想学习中国文化。\n冬天的时候，北方下雪比较多，而南方下雪比较少。\n他们兄弟的性格完全不同，哥哥喜欢热闹，而弟弟喜欢安静。\n你说得对，既然来了中国，就要学习一些中国的文化。\n既然你决定应聘那份工作，就应该认真准备面试。\n活动还没开始，教室里就坐满了人，甚至还有人站在后面。\n他最近工作很忙，有时候甚至连吃饭的时间都没有。\n我姐姐还没有结婚，不过已经有男朋友了。\n那家公司的地址我也不知道，不过我可以上网帮你查查。\n从那天开始，我就跟着老师学习中国功夫，并且一直坚持到现在。\n她打算在中国学习中文，并且还想申请读研究生。
+G00258,4,连词,不光、不仅、另外、要是、因此、由于2、加上,"Dùng để liên kết các phân câu hoặc câu, thể hiện quan hệ logic giữa các nội dung.",我不光要学习中文，还要学习中国的历史和文化。\n学校周围不光环境好，交通也很方便。\n我弟弟不仅学习成绩好，而且性格也很好。\n骑自行车旅行不仅便宜，还能锻炼身体。\n我大学学的是广告专业，另外还有三年工作经验。\n这些商品质量不错，另外价格也比较便宜。\n要是你也觉得满意，咱们就买吧。\n要是天气不好，明天的活动就取消。\n买汽车的人越来越多，因此堵车成为了城市交通的大问题。\n她在中国生活过，因此对中国文化有一些了解。\n由于去晚了，前面没有座位了，我只好坐在最后一排。\n由于天气原因，我们的航班被取消了。\n我爸爸平时工作很忙，加上经常出差，有时候一周也见不到他。\n景区实在太大了，加上天气这么热，走了半天，我们又累又渴。
+G00259,4,助词,等2、者、之、就是,"Trợ từ có chức năng ngữ pháp đặc thù, cần căn cứ vào từng cấu trúc cụ thể để xác định cách sử dụng.",我会说英语、汉语、法语等很多种语言。\n你最好提前上网了解一下那里的天气、交通、景点等方面的信息。\n根据学校的规定，迟到十分钟以上者不允许参加考试。\n申请参加会议者，请将您的个人信息发送到此邮箱。\n其实，来中国留学一开始并不在我的计划之内。\n我希望在提高中文水平的基础之上，能够学习一些专业知识。\n我们明天一定完成任务，您放心就是了。\n我开车去学校接你，你在门口等我就是了。
+G00260,4,叹词,啊、嗯,"啊 và 嗯 là các thán từ thường dùng trong giao tiếp. 啊 có thể biểu thị sự ngạc nhiên, nhận ra hoặc nhấn mạnh cảm xúc; 嗯 thường dùng để xác nhận, đồng ý hoặc phản hồi khi nghe người khác nói.",啊，原来是这么一回事！                                          \n啊，这么多人排队！\nA：八点出发来得及吗？\nB：嗯，应该来得及。
+G00261,4,结构类型,数词+形容词+量词,"Cấu trúc số từ + tính từ + lượng từ dùng để biểu thị số lượng kết hợp với đặc điểm hoặc kích thước của sự vật. Tính từ đứng giữa số từ và lượng từ để bổ sung thông tin, ví dụ 一小盒 (một hộp nhỏ), 两大包 (hai gói lớn).",奶奶把一小盒巧克力装进了孙子的书包里。\n回国前，我给父母买了两大包中国茶作为礼物。
+G00262,4,固定短语,一A一B,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",她说话的声音不大，但是一字一句说得很清楚。\n这会儿路上堵车，一来一回至少需要两个小时。
+G00263,4,固定短语,无A无B,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",我无儿无女，一人吃饱全家不饿。\n母亲无日无夜地照顾着生病的孩子。
+G00264,4,固定短语,有A有B,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",下课了，同学们有说有笑地走出了教室。\n这部作品的每个人物都写得有血有肉。
+G00265,4,固定短语,来得及/来不及,来得及 biểu thị còn đủ thời gian để thực hiện một việc; 来不及 biểu thị không còn đủ thời gian để thực hiện việc đó.,我这两天很忙，没来得及考虑这个问题。                                   \n我想参加明天的比赛，现在报名来得及吗？\n我发现这个问题时已经太晚了，来不及做出任何改变。\n飞机就要起飞了，你得快一点儿，否则就来不及了。
+G00266,4,固定短语,有的是,"有的是 biểu thị số lượng rất nhiều hoặc có sẵn nhiều, thường dùng để nhấn mạnh rằng không thiếu đối tượng được đề cập.",一次失败并不可怕，以后有的是机会。\n这种水果我的家乡有的是。
+G00267,4,固定短语,说不定,"说不定 biểu thị sự phỏng đoán hoặc khả năng chưa chắc chắn, có nghĩa là có thể hoặc biết đâu.",客人来不来还说不定。\n说不定路上堵车，再等一会儿吧。
+G00268,4,固定短语,不怎么,"不怎么 đặt trước tính từ hoặc động từ để biểu thị mức độ không cao hoặc tần suất không nhiều, thường mang nghĩa không... lắm.",她从来都不怎么关心别人的看法。\n从检查结果来看，他受的伤不怎么严重。
+G00269,4,固定短语,就是说/这就是说,"就是说 hoặc 这就是说 dùng để giải thích, diễn đạt lại hoặc làm rõ nội dung vừa được nói đến, có nghĩa là tức là hoặc điều đó có nghĩa là.",他们没有直接拒绝你，而是让你回来等消息，就是说，你还有机会，千万不要放弃。\n他总是为自己的错误找各种原因，这就是说，他是一个不愿意负责任的人。
+G00270,4,固定短语,一+量词+比+一+量词,"Cấu trúc 一+量词+比+一+量词 dùng để so sánh sự thay đổi liên tiếp giữa các lần, ngày hoặc giai đoạn. Thường diễn tả mức độ tăng hoặc giảm dần, ví dụ 一天比一天暖和 (mỗi ngày một ấm hơn).",他的表演一次比一次精彩。\n最近天气一天比一天暖和。
+G00271,4,固定短语,在……方面,"Cấu trúc 在……方面 dùng để giới hạn phương diện hoặc lĩnh vực đang được đề cập, giúp làm rõ nhận xét hoặc thông tin trong câu. Ví dụ: 在学习方面 (về phương diện học tập).",在教育孩子方面，张老师有丰富的经验。\n在生活方面，他还不太习惯。
+G00272,4,固定短语,够……的,"Cấu trúc 够……的 dùng để nhấn mạnh mức độ hoặc đặc điểm của người, sự vật hay sự việc. Tùy ngữ cảnh, cấu trúc có thể biểu thị mức độ cao, đáng kể hoặc vượt quá dự đoán.",这个房间真够大的，估计能住七八个人。\n你男朋友真够浪漫的，每天都给你送一枝花。
+G00273,4,固定短语,拿……来说,Cấu trúc 拿……来说 dùng để đưa ra một đối tượng hoặc khía cạnh cụ thể làm ví dụ minh họa cho nhận xét chung. Phần đứng sau 拿 là đối tượng được chọn để phân tích.,中国各地的生活习惯各不相同，拿吃饭来说，南方人一般喜欢吃米饭，而北方人爱吃面条、馒头等面食。\n科技改变了人类的生活，拿交通来说，高铁的出现使人们的日常出行更快、更方便了。
+G00274,4,固定短语,再也不/没……,"Cấu trúc 再也不/没…… dùng để nhấn mạnh rằng một hành động sẽ không tiếp tục xảy ra hoặc đã không xảy ra thêm lần nào nữa. 不 thường dùng với hành động hoặc tình huống hiện tại, tương lai; 没 thường dùng để phủ định sự việc đã xảy ra.",我保证今后再也不迟到了。\n大学毕业以后，我再也没见过他。
+G00275,4,固定短语,怎么都/也+不/没……,"Cấu trúc 怎么都/也+不/没…… nhấn mạnh rằng dù thử bằng cách nào hoặc trong hoàn cảnh nào thì hành động, sự việc vẫn không xảy ra hoặc không đạt được kết quả.",他们跑了好几家医院，怎么也没查出孩子生病的原因。\n尽管每天细心照顾，可阳台上的花怎么都不开。
+G00276,4,固定短语,为了……而……,"Cấu trúc 为了……而…… biểu thị mục đích của một hành động. Thành phần sau 为了 nêu mục tiêu, còn thành phần sau 而 nêu hành động được thực hiện nhằm đạt mục tiêu đó.",为了梦想而努力的人值得我们学习。\n我们减少使用塑料袋，是为了保护环境而改变习惯。
+G00277,4,固定短语,动词+一X是一X,"Cấu trúc động từ + 一X 是一X biểu thị thái độ chấp nhận hoặc tận dụng những gì có thể làm được trong hoàn cảnh hiện tại. Thường dùng khi số lượng hoặc khả năng có hạn, ví dụ 学一点儿是一点儿 (học được chút nào hay chút ấy).",虽然日子过得很难，但也不能过一天是一天。\n要学的内容实在太多了，学一点儿是一点儿吧。
+G00278,4,固定短语,（没）有什么（好）X的,Cấu trúc （没）有什么（好）X的 thường dùng trong câu hỏi tu từ hoặc câu phủ định để cho rằng không có lý do đáng kể phải thực hiện hành động hoặc có cảm xúc được nhắc đến. Ví dụ: 有什么好害怕的 (có gì đáng sợ đâu).,想好了就直接做，有什么好害怕的。\n只是一次考试没考好，没有什么好难过的。
+G00279,4,固定短语,X是X，Y是Y,"Cấu trúc X是X，Y是Y dùng để phân biệt hai người, sự vật hoặc vấn đề, nhấn mạnh rằng mỗi bên có đặc điểm hoặc phạm vi riêng, không nên đánh đồng chúng.",他是他，我是我，我们的意见不一样。\n工作是工作，家庭是家庭，不要用工作的方式解决家里的问题。
+G00280,4,固定短语,X也得X，不X也得X,"Cấu trúc X也得X，不X也得X nhấn mạnh rằng một hành động là bắt buộc, dù muốn hay không thì vẫn phải thực hiện. Cấu trúc thường dùng để thể hiện tính kiên quyết hoặc sự không thể tránh khỏi.",这场会议很重要，你去也得去，不去也得去。\n结果改变不了了，你接受也得接受，不接受也得接受。
+G00281,4,固定短语,X就是了,"Cấu trúc X就是了 dùng để đưa ra lời khuyên hoặc hướng dẫn đơn giản, mang ý nghĩa chỉ cần thực hiện hành động đó là được, không cần quá lo lắng hoặc phức tạp hóa vấn đề.",别浪费时间了，有什么想法说就是了。\n你不要生气，下次別答应他就是了。
+G00282,4,固定短语,还X呢,"Cấu trúc 还X呢 thường dùng để phản bác hoặc mỉa mai một nhận định, danh xưng hay kỳ vọng nào đó khi thực tế không tương xứng. Cấu trúc thể hiện sự không hài lòng hoặc châm biếm tùy ngữ cảnh.",还国际公司呢，服务质量这么差。\n还中文专业的呢，中文说得还不如我。
+G00283,4,固定短语,你X你的吧,"Cấu trúc 你X你的吧 dùng để bảo người khác cứ tiếp tục làm việc của họ, không cần bận tâm hoặc chờ đợi người nói. Thường xuất hiện trong giao tiếp thân mật.",我不饿，你吃你的吧，不用等我。\n没有什么重要的事，你忙你的吧。
+G00284,4,固定短语,让/叫你X你就X,"Cấu trúc 让/叫你X你就X dùng để nhấn mạnh yêu cầu hoặc lời chỉ dẫn: đã được bảo làm gì thì nên làm đúng việc đó. Cấu trúc có thể thể hiện sự nhắc nhở, thúc giục hoặc không hài lòng.",老师让你多练你就多练，肯定没坏处。\n叫你拿着你就拿着，不用跟我客气。
+G00285,4,固定短语,说什么/怎么（着）也得X,Cấu trúc 说什么/怎么（着）也得X nhấn mạnh quyết tâm hoặc sự cần thiết phải thực hiện một hành động trong mọi trường hợp. Có thể hiểu là dù thế nào đi nữa cũng phải làm việc đó.,他受伤了，我说什么也得去看看他。\n快要迟到了，说什么也得走了。\n这么有用的技术，我怎么（着）也得学。
+G00286,4,固定短语,X就X（点儿）吧,Cấu trúc X就X（点儿）吧 thể hiện sự chấp nhận một tình huống hoặc lựa chọn dù nó chưa hoàn toàn như mong muốn. Người nói đồng ý với phương án đó và thường thêm 点儿 để làm giọng điệu nhẹ nhàng hơn.,买就买（点儿）吧，也不太贵。\n慢就慢（点儿）吧，能做完就行。
+G00287,4,固定短语,X是X,"Cấu trúc X是X dùng để thừa nhận một sự thật hoặc đặc điểm trước, sau đó thường bổ sung ý kiến trái chiều hoặc một hạn chế. Ví dụ: 累是累，不过…… (mệt thì đúng là mệt, nhưng…).",我们讨论是讨论了，可是大家各有各的想法。\n留学生活累是累，不过我们学到了很多知识。
+G00288,4,补语,形容词/心理动词+死了/厉害,"Bổ ngữ mức độ, nhấn mạnh mức độ cao hoặc đặc biệt của trạng thái, cảm xúc.",面试的时候，我心里紧张死了。\n不知道从哪儿来的声音，吵死了。\n吃完冰激凌，我突然牙疼得厉害。\n我们这儿有个同学病得很厉害，请你们赶快来看看。
+G00289,4,补语,动词+得/不+了,"Bổ ngữ khả năng, biểu thị khả năng thực hiện hành động hoặc đạt được kết quả trong một điều kiện nhất định.",你点了这么多菜，咱们两个人吃得了吗？\n我帮你一起做，下班之前肯定完成得了。\n行李太重了，我一个人拿不了。\n明天的比赛他参加不了。
+G00290,4,句类,难道……吗？,"Câu phản vấn, dùng các cấu trúc nghi vấn để biểu đạt ý khẳng định hoặc phủ định mang tính nhấn mạnh.",作为学生，难道学习不是最重要的事情吗？\n工作出了问题，你难道不应该负责吗？
+G00291,4,句类,由疑问代词构成的反问句,"Câu phản vấn, dùng các cấu trúc nghi vấn để biểu đạt ý khẳng định hoặc phủ định mang tính nhấn mạnh.",这么有名的作家，谁不认识他？\n他去哪儿从来不说，我怎么会知道呢？\n事情这么多，我哪儿有时间出去旅游啊？
+G00292,4,特殊句型,主语+把+宾语+动词（+一/了）+动词,“把”字句2,你再把那件衣服洗一洗。\n你把窗户擦一擦，我把地板扫一扫\n他把钱算了算，又取了一点儿出来。
+G00293,4,特殊句型,主语+把+宾语+动词+了,“把”字句2,我把银行卡密码忘了。\n他把新买的手机丢了。
+G00294,4,特殊句型,主语+把+宾语+动词+动量补语/时量补语,“把”字句2,因为不收拾房间，妈妈把他批评了一顿。\n同学们把课文读了两遍。\n他把这个问题认真地考虑了好几天。
+G00295,4,特殊句型,主语+把+宾语+状语+动词,“把”字句2,你别把垃圾往地上扔。\n请大家把说明书认真读一读。
+G00296,4,特殊句型,主语+叫/让+宾语+动词+其他成分,"Câu bị động, sử dụng 叫 hoặc 让 để biểu thị đối tượng chịu tác động của hành động.",我的自行车让朋友借去了。\n相机叫谁拿走了？
+G00297,4,特殊句型,表爱憎义：主语+表扬/批评+宾语1+动词+宾语2,"Câu kiêm ngữ, sử dụng cấu trúc hai động từ liên tiếp, trong đó thành phần đứng giữa giữ đồng thời hai chức năng ngữ pháp.",老师表扬我取得了好成绩。\n警察表扬那个小伙子帮助了别人。\n妈妈总是批评我不收拾房间。\n经理批评我没带会议资料。
+G00298,4,特殊句型,表称谓或认定义：主语+收/选+宾语1+做/当/为+宾语2,"Câu kiêm ngữ, sử dụng cấu trúc hai động từ liên tiếp, trong đó thành phần đứng giữa giữ đồng thời hai chức năng ngữ pháp.",同学们选我做小组长。\n大家想选他当队长。\n张教授同意收我为学生。
+G00299,4,特殊句型,表致使：主语+使/让+人称代词+动词短语,"Câu kiêm ngữ, sử dụng cấu trúc hai động từ liên tiếp, trong đó thành phần đứng giữa giữ đồng thời hai chức năng ngữ pháp.",这件事使我改变了对她的印象。\n那些美好的回忆让我永远难忘。
+G00300,4,特殊句型,A不如B（+形容词）,"Câu so sánh, sử dụng 不如 hoặc 跟……相比 để biểu thị sự kém hơn hoặc đối chiếu giữa các đối tượng.",现在堵车，打车不如坐地铁快。\n我觉得玩游戏不如看小说有意思。
+G00301,4,特殊句型,跟……相比,"Câu so sánh, sử dụng 不如 hoặc 跟……相比 để biểu thị sự kém hơn hoặc đối chiếu giữa các đối tượng.",跟线下购物相比，上网买东西更符合年轻人的习惯。\n跟其他公司相比，我们的产品不但便宜，而且服务也好。
+G00302,4,特殊句型,用双重否定表示强调,"Câu phủ định kép, sử dụng hai yếu tố phủ định để biểu đạt ý khẳng định hoặc nhấn mạnh.",没有学生不喜欢放假。\n这么重要的内容老师不可能没讲过。
+G00303,4,复句,不是……，而是……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",他不是不想帮忙，而是确实没时间。\n我不是不爱喝咖啡，而是担心晚上睡不着。
+G00304,4,复句,既……，又/也……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",这个牌子的奶茶既好喝，又健康。\n我每天骑自行车上学，这样既能锻炼身体，也对环境保护有帮助。
+G00305,4,复句,一方面……，另一方面……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",参加文化活动一方面可以增长知识，另一方面可以认识新的朋友。\n想要解决大城市堵车的问题，一方面要提高公共交通服务质量，另一方面要让人们养成绿色出行的习惯。
+G00306,4,复句,首先……，其次……,"Câu phức nối tiếp, biểu thị các hành động hoặc sự việc xảy ra theo trình tự.",选择职业的时候，应该首先了解自己的性格、能力，其次再考虑工资、收入等方面的问题。\n我学汉语首先是因为对中国文化感兴趣，其次是为了获得更多的工作机会。
+G00307,4,复句,首先……，然后……,"Câu phức nối tiếp, biểu thị các hành động hoặc sự việc xảy ra theo trình tự.",首先要找到一个合适的目标，然后坚持学习，这样才能学好中文。\n校长首先对同学们表示欢迎，然后介绍了学校的一些基本情况。
+G00308,4,复句,……，于是……,"Câu phức nối tiếp, biểu thị các hành động hoặc sự việc xảy ra theo trình tự.",人们喜欢一边喝咖啡，一边聊天儿，于是城市里的咖啡馆越来越多。\n大家不断地鼓励我，于是我决定报名参加这个比赛。
+G00309,4,复句,"……,甚至……","Câu phức tăng tiến, trong đó vế sau bổ sung hoặc nhấn mạnh nội dung ở mức độ cao hơn vế trước.",为了锻炼身体，我一有空就去健身房，甚至专门请了一个健身教练。\n收到大学的入学通知，我高兴极了，甚至觉得自己是世界上最幸福的人。
+G00310,4,复句,不仅/不光……，还/而且……,"Câu phức tăng tiến, trong đó vế sau bổ sung hoặc nhấn mạnh nội dung ở mức độ cao hơn vế trước.",我们学习生词，不仅要理解词语的意思，而且应该知道怎么使用。\n这里不光有美丽的风景，还有各种少见的动物、植物。
+G00311,4,复句,……，并且……,"Câu phức tăng tiến, trong đó vế sau bổ sung hoặc nhấn mạnh nội dung ở mức độ cao hơn vế trước.",经过四年的努力，他终于顺利毕业，并且有了一家自己的公司。\n随着经济的发展，人们的生活水平提高了，并且对健康和生活质量的要求也越来越高。
+G00312,4,复句,连……也/都……，……更……,"Câu phức tăng tiến, trong đó vế sau bổ sung hoặc nhấn mạnh nội dung ở mức độ cao hơn vế trước.",我有时候连老师说的话也听不懂，听广播就更难了。\n受伤以后，他连走路都困难，踢足球更不可能了。
+G00313,4,复句,不是……，就是……,"Câu phức lựa chọn, biểu thị sự lựa chọn giữa hai hoặc nhiều khả năng.",毕业以后，同学们不是留在中国继续学习，就是回国工作。\n周末他不是在游泳馆游泳，就是在篮球场打篮球。
+G00314,4,复句,尽管……，但是/可是……,"Câu phức chuyển ý, biểu thị sự đối lập hoặc tương phản giữa hai vế câu.",尽管收入不高，但是我对这份工作很满意。\n尽管已经很晚了，可是她仍然在学习。
+G00315,4,复句,……，然而……,"Câu phức chuyển ý, biểu thị sự đối lập hoặc tương phản giữa hai vế câu.",我知道那部电影很有意思，然而太忙了，一直没时间看。\n她以为能轻松通过考试，然而成绩却不太好。
+G00316,4,复句,……，不过……,"Câu phức chuyển ý, biểu thị sự đối lập hoặc tương phản giữa hai vế câu.",我很想参加你的生日晚会，不过我明天有考试，得好好复习。\n他只学了三个月中文，不过已经说得不错了。
+G00317,4,复句,……X是X，就是/不过……,"Câu phức chuyển ý, biểu thị sự đối lập hoặc tương phản giữa hai vế câu.",这些衣服便宜是便宜，就是感觉质量不太好。\n小张这个人聪明是聪明，不过有时候比较懒。
+G00318,4,复句,……，否则……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",你下了飞机记得给妈妈打个电话，否则她会一直担心你。\n课后一定要经常复习，否则很快就会忘记。
+G00319,4,复句,要是……，就……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",你要是想取得成功，就必须坚持到底。\n要是人人都能节约用水，地球的环境就能得到更好的保护。
+G00320,4,复句,要是……，（就）……，否则……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",要是你打算假期去旅游，就提前上网订票，否则到时候就买不到了。\n要是你不常穿，最好就不要买，否则买了也是浪费。
+G00321,4,复句,不管……，都/也……,"Câu phức điều kiện, biểu thị điều kiện cần có để một sự việc hoặc hành động xảy ra.",不管在什么地方，说话、办事都要有礼貌。\n不管别人怎么说，我也不会改变主意。
+G00322,4,复句,无论……，都/也……,"Câu phức điều kiện, biểu thị điều kiện cần có để một sự việc hoặc hành động xảy ra.",无论在多么紧张的情况下，他都表现得非常冷静。\n无论遇到多大的困难，我们也不应该随便放弃。
+G00323,4,复句,既然……，就……,"Câu phức nhân quả, biểu thị quan hệ nguyên nhân và kết quả giữa các vế câu.",既然你这么喜欢小孩儿，毕业以后就当老师吧。\n既然来了，就进屋喝杯茶吧。
+G00324,4,复句,（由于）……，因此……,"Câu phức nhân quả, biểu thị quan hệ nguyên nhân và kết quả giữa các vế câu.",由于您没带护照，因此不能办理银行卡。\n我对京剧很感兴趣，因此报名参加了这次活动。
+G00325,4,复句,……，好……,"Câu phức mục đích, biểu thị mục đích mà hành động hoặc sự việc hướng tới.",我每天都给父母打电话，好让他们放心。\n我们应该多鼓励他，好让他有信心。
+G00326,4,复句,即使……，也……,"Câu phức nhượng bộ, thừa nhận một điều kiện hoặc tình huống nhưng vẫn khẳng định nội dung ở vế chính.",你即使干到明天早上，恐怕也干不完。\n即使工作再忙，也要常回家看看父母。
+G00327,4,复句,就是……，也……,"Câu phức nhượng bộ, thừa nhận một điều kiện hoặc tình huống nhưng vẫn khẳng định nội dung ở vế chính.",我今天晚上就是不睡觉，也必须解决这个问题。\n你就是不同意，我也不会改变自己的决定。
+G00328,4,复句,无标记,"Câu phức rút gọn, biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần.",你着急你先走吧。\n站得高看得远。\n他同意我不同意。
+G00329,4,复句,不……也……,"Câu phức rút gọn, biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần.",今晚我不睡觉也要把作业写完。\n你不喜欢做也得做。
+G00330,4,数的表示法,概数表示法3：数词+来+量词,"Cấu trúc số từ + 来 + lượng từ dùng để biểu thị số lượng ước chừng, thường chỉ một con số gần đúng và không hoàn toàn chính xác. Ví dụ: 三百来间 (khoảng hơn hoặc xấp xỉ 300 phòng).",我们的宿舍楼有三百来间房。\n书架上放着一百来本书。\n这条大鱼估计有十来斤重。
+G00331,4,数的表示法,用“大约、左右、前后”表示概数,大约、左右、前后 đều có thể dùng để biểu thị số lượng hoặc thời gian ước chừng. 大约 thường đứng trước con số; 左右 thường đứng sau con số; 前后 dùng để chỉ khoảng thời gian xoay quanh một mốc.,客人大约下午两点到公司参观。\n我的中文老师四十岁左右。\n春节前后，很多商场有打折活动。
+G00332,4,数的表示法,小数、分数、百分数、倍数的表示法,"Cách biểu thị số thập phân, phân số, phần trăm và bội số trong tiếng Trung. Số thập phân dùng 点; phân số dùng cấu trúc mẫu số + 分之 + tử số; phần trăm dùng 百分之 + số; bội số dùng 倍.",零点五、三分之一、百分之二十、两倍\n老师听写了二十个汉字，每个汉字零点五分，一共十分。\n我们班有三分之一的同学没去过长城。\n跟去年相比，今年游客的数量减少了百分之二十。\n我的收入比去年提高了两倍。
+G00333,5,后缀,—头,"头 là hậu tố kết hợp với một số từ chỉ vị trí hoặc phương hướng để tạo thành từ biểu thị vị trí. Ví dụ: 里头 (bên trong), 石头中的头 không mang nghĩa hậu tố chỉ vị trí.",那块石头上刻着一些汉字。\n那本书里头是不是有一封信？
+G00334,5,代词,彼此、如此、本,"Đại từ chỉ thị, dùng để xác định hoặc chỉ rõ người, sự vật, địa điểm và phạm vi.",在日常交流中，我们应该尊重彼此。\n他们已经认识很久了，对彼此的习惯非常了解。\n这里的夏天异常炎热，年年如此。\n很多人都没有想到乡村的变化如此巨大。\n本规定自明日起正式实施。\n本次列车开往北京西站。
+G00335,5,量词,册、朵、届、颗、匹、行、架、群、支、根、批、束、副、集、周,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",这册历史书讲述了古代中国的发展过程。\n第一次见面时他送给了我一朵玫瑰花。\n这届会议讨论了许多重要的话题。\n城市夜晚的天空中几乎看不到几颗星星。\n那匹马跑得特别快，赢得了这次比赛。\n她在表格的最后一行写上了自己的名字。\n那架飞机在空中飞行了很久，最终安全降落。\n一群可爱的孩子正在舞台上表演节目。\n这支队伍非常优秀，连续几年都获得了冠军。\n他一不小心把一根筷子掉在了地上。\n王经理正在培训这批新员工。\n为了表示对朋友的欢迎，他特意买了一束花。\n选来选去还是这副手套戴着最舒服。\n别看书了，打开电视，看两集电视剧吧。\n地球绕太阳一周需要一年。
+G00336,5,量词,眼,"Động lượng từ, dùng để biểu thị số lần hoặc số lượt một hành động xảy ra.",新娘看了一眼新郎，害羞得低下了头。
+G00337,5,副词,过于、相当、较1、可2、格外、极其,"Phó từ chỉ mức độ, bổ sung ý nghĩa về mức độ hoặc cường độ cho tính từ, động từ hoặc thành phần khác.",他在面试时过于紧张，连话都说不清楚了。\n过于追求完美反而会让人总是对现状不满意。\n这次考试的题目相当难，很多同学都没有及格。\n他的中文水平相当不错，可以和中国人流利对话。\n如何才能在短期内较快地提高中文水平？\n年轻人学习新事物的能力较强，能够很快适应新的环境。\n那家公司今年推出的新产品可受欢迎了。\n这部电影拍得可精彩了，你千万不能错过！\n这家餐厅的服务态度格外热情，常常需要提前预约。\n国庆假期的景区格外热闹，到处都是外地来的游客。\n那天的天气极其恶劣，我们不得不取消旅行计划。\n这次旅行给我留下了极其深刻的印象，尤其是当地的美食和历史。
+G00338,5,副词,时刻、曾经、立刻、连忙、始终、早已、即将、急忙、渐渐、尽快、早晚,"Phó từ chỉ thời gian, biểu thị thời điểm, thời gian hoặc trình tự xảy ra của hành động.",父母要时刻关心孩子的心理健康。\n他提醒我旅行时一定要时刻注意自己的护照和钱包。\n她曾经当过导游，在设计旅行线路方面很有经验。\n王校长去年曾经来我们学校访问过。\n为了迎接客人的到来，他一下班就立刻回家准备晚餐。\n张教授刚说完，学生们就立刻认真地写起来。\n妈妈连忙检查摔倒的孩子有没有受伤。\n他连忙向交警解释自己并非故意违反交通规则。\n最近一年，这套教材的销量始终保持增长。\n无论如何，亲朋好友始终是你的依靠。\n这里的乡村早已实现了现代化，不再是当年的样子。\n科学家早已研发出治疗这种疾病的药物。\n明天公司即将召开新品发布会，欢迎大家参加！\n他们的婚礼即将在下个月举行。\n听到消息后，她急忙收拾行李赶往机场。\n车祸发生后，他急忙打电话叫救护车。\n计算机技术渐渐成为各行各业的关键技术。\n春天一到，气温就开始渐渐上升了。\n如果您有任何问题，请尽快联系我。\n医生建议他尽快接受手术治疗。\n他们再这样一直吵下去，早晚会离婚的。\n父母应该明白，孩子早晚是要独立生活的。
+G00339,5,副词,老是、通常、时常,"Phó từ chỉ tần suất, biểu thị mức độ thường xuyên hoặc số lần hành động xảy ra.",他最近老是熬夜，所以脸色很不好。\n你出门老是忘记带钥匙，这个坏习惯一定要改！\n旅行社通常在寒暑假生意更好。\n中国的大学通常会为学生提供更换专业的机会。\n他时常下班后去公园散步，顺便放松一下心情。\n夫妻二人的工作都很忙，所以时常没有人做家务。
+G00340,5,副词,尽量、亲自,"Phó từ chỉ phương thức, biểu thị cách thức hoặc thái độ thực hiện hành động.",冬天尽量少吃雪糕，容易着凉。\n请大家尽量在本周五提交论文。\n公司老板亲自参与了新产品的设计与开发。\n这些点心是我亲自为你做的。
+G00341,5,副词,便、一旦,"Phó từ liên kết, biểu thị mối quan hệ giữa các hành động hoặc thành phần trong câu.",会议一结束，我便赶回公司了。\n这个学生很聪明，一教便懂。\n一旦确定了目标，就不要放弃。\n这次机会非常难得，一旦错过了，你会后悔的。
+G00342,5,副词,似乎、仿佛,"Phó từ tình thái, biểu thị phỏng đoán, đánh giá, mức độ chắc chắn hoặc thái độ của người nói.",他似乎在犹豫要不要接受这份新工作。\n这家便利店似乎两周前就关门了。\n我们仿佛在哪儿见过似的。\n他俩见面不打招呼，仿佛谁也不认识谁。
+G00343,5,副词,毕竟、居然、反正、根本、果然、简直、绝对、的确、反而、白、刚好、可3,"Phó từ ngữ khí, bổ sung sắc thái biểu cảm, đánh giá hoặc thái độ của người nói.",毕竟他刚来公司一个月，还需要时间适应。\n他毕竟是个孩子，有些错误可以被原谅。\n昨天我才发现新来的同事居然是我的邻居。\n这么冷的天他居然没穿外套。\n你要去就去吧，反正我肯定不会去。\n反正我已经辞职了，今晚加班我是不会去的。\n你不用再劝他了，他根本不会听。\n我看根本没必要追求完美，世界上不存在完美的人和事。\n她果然选择了自己最喜欢的文学专业。\n他果然没有放弃，坚持完成了比赛。\n这简直是在开玩笑！\n画面里的竹子简直像真的一样。\n高科技绝对会成为各行各业发展的重要因素。\n老张这个人绝对可靠。\n近年来城乡差距的确缩小了不少。\n我今天上班的确迟到了，因为路上发生了交通事故。\n道歉不会损害企业的形象，反而能够赢得消费者的信任。\n我妈妈退休以后反而更忙了。\n不用白费力气了，结果已经无法改变了。\n妈妈的话白说了，孩子并没有听。\n今天刚好有空儿，咱们去爬山吧。\n我们去找他玩的时候，他刚好做完作业。\n这么难得的机会，你可不能错过啊！\n下周就要比赛了，咱们可得抓紧时间训练。
+G00344,5,介词,自从,Giới từ dùng để dẫn ra thời gian hoặc địa điểm liên quan đến hành động.,自从和丈夫离了婚，她一个人去了很多地方旅行。\n自从进入大学，每次与就业有关的讲座他都会参加。
+G00345,5,介词,朝、沿（着）,"Giới từ dùng để biểu thị phương hướng, tuyến đường hoặc điểm di chuyển.",沿着这条路朝东走就是我们今晚要住的酒店。\n冬天许多鸟都会朝南方温暖的地方飞去。\n沿着这条高速公路一直开，就能到达那座城市。\n老人沿着墙边种了很多花。\n你沿着这个思路进行下去，就能找到解决问题的方法。
+G00346,5,介词,替、同1、较2,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,希望这次采访能替我们宣传一下公司的新产品。\n我出差期间，同事替我照顾我的宠物。\n汉语同其他语言一样，有很多独特的表达方式。\n这件事我得同父母谈谈，看看他们同意不同意。\n今年的放假时间较去年稍有变化。\n本月产品销量较上月增长百分之十五。
+G00347,5,介词,凭,"Giới từ dùng để biểu thị phương tiện, căn cứ hoặc cơ sở thực hiện hành động.",她凭这部电影成为了今年的最佳导演。\n凭这张票，你可以免费参观这场展览。
+G00348,5,介词,据,"Giới từ dùng để biểu thị phương tiện, căn cứ hoặc cơ sở thực hiện hành động.",据我们掌握的数据，这个地区的石油资源十分丰富。\n据我观察，这个问题不难解决。
+G00349,5,介词,依据,"Giới từ dùng để biểu thị phương tiện, căn cứ hoặc cơ sở thực hiện hành động.",法律的修改应当依据社会现实。\n企业要依据消费者的需求研发新产品。
+G00350,5,连词,以及、同2,Dùng để liên kết các từ hoặc cụm từ có quan hệ ngữ pháp và ngữ nghĩa.,他负责项目的设计、执行以及最终的总结工作。\n我对这本书的内容以及作者还不太了解，你能介绍一下吗？\n你同新来的同事一起去吧，顺便给他介绍一下公司的情况。\n这项比赛要求孩子同家长一起参加。
+G00351,5,连词,从而、可见、假如、总之,"Dùng để liên kết các phân câu hoặc câu, thể hiện quan hệ logic giữa các nội dung.",学校更新了教学设备，从而为学生提供了更好的学习环境。\n这次合作让我们加深了对彼此的了解，从而建立了深厚的友谊。\n他每天都工作到很晚，可见他十分热爱这份工作。\n他的演讲得到了热烈的掌声，可见大家都很支持他的观点。\n假如让我重新选择，我还是会选择医学专业。\n假如你有机会出国旅行，你最想去哪个国家？\n一个人在国外生活，要自己照顾自己，还要学习当地的语言和文化，总之，挺不容易的。\n你同意也好，不同意也好，总之，我一定要去北京。
+G00352,5,助词,似的,"Trợ từ có chức năng ngữ pháp đặc thù, cần căn cứ vào từng cấu trúc cụ thể để xác định cách sử dụng.",她笑得像个孩子似的。\n他们讨论得很激烈，像是要吵起来似的。
+G00353,5,固定短语,A来A去,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",我们争来争去，还是没找到最佳方案。\n他工作很忙，经常在国内外飞来飞去。\n我想来想去，决定先不告诉她这个坏消息。
+G00354,5,固定短语,A着A着,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",我今天太困了，写着写着作业就睡着了。\n他走着走着，突然发现自己迷路了。
+G00355,5,固定短语,没A没B,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",你这样没日没夜地工作，身体早晚会出问题的。\n这孩子说话没大没小，父母必须要好好教育。
+G00356,5,固定短语,说A就A,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",越来越多的年轻人选择说走就走的旅行。\n他总是说干就干，从不浪费时间。
+G00357,5,固定短语,不得了,"不得了 dùng để nhấn mạnh mức độ rất cao hoặc tình trạng đặc biệt nghiêm trọng, có thể mang sắc thái tích cực hoặc tiêu cực tùy ngữ cảnh.",他最近的表现好得不得了，老师都说他进步很大。\n不得了了，厨房着火了！
+G00358,5,固定短语,用不着,"用不着 biểu thị một việc không cần thiết phải thực hiện hoặc không cần sử dụng đến, có nghĩa là không cần.",这点儿小病，用不着去医院。\n这件事用不着大家都来帮忙，我自己就能完成。\n我们还有时间，你现在用不着着急。
+G00359,5,固定短语,从……来看,"Cấu trúc 从……来看 dùng để đưa ra nhận xét hoặc đánh giá dựa trên một góc độ, căn cứ hoặc thông tin cụ thể. Thành phần sau 从 nêu cơ sở để người nói đưa ra kết luận.",从这次的考试成绩来看，大家都付出了很多努力。\n从长远来看，掌握一门外语对个人发展很有帮助。
+G00360,5,固定短语,A的A，B的B,"Cấu trúc A的A，B的B dùng để mô tả nhiều người hoặc sự vật thực hiện những hành động khác nhau, hoặc có những đặc điểm, trạng thái khác nhau. Cấu trúc thường nhấn mạnh sự đa dạng hoặc tình trạng không đồng đều.",这些汉字写得大的大、小的小，一点儿也不整齐。\n广场上孩子们跑的跑，跳的跳，热闹极了。
+G00361,5,固定短语,（自）……以来,Cấu trúc （自）……以来 dùng để xác định khoảng thời gian bắt đầu từ một mốc trong quá khứ và kéo dài đến hiện tại hoặc một thời điểm đang được đề cập. Thường dùng để nói về sự thay đổi hoặc tình trạng kéo dài.,自改革开放以来，中国社会发生了巨大的改变。\n外公去世以来，我时常梦到他。
+G00362,5,固定短语,由……组成,"Cấu trúc 由……组成 biểu thị thành phần cấu tạo nên một tập thể, tổ chức hoặc sự vật. Thành phần đứng sau 由 nêu các bộ phận hoặc yếu tố tạo nên tổng thể.",本课程由理论学习和实践操作两部分内容组成。\n项目团队由三位工程师组成。
+G00363,5,固定短语,X也不是，Y也不是,Cấu trúc X也不是，Y也不是 diễn tả tình huống khó xử khi người nói không thể lựa chọn hoặc thực hiện phương án nào trong hai phương án được nêu.,马上就要面试了，他紧张得坐也不是，站也不是。\n公司已经三个月没有发工资了，他走也不是，留也不是，不知道怎么办好。
+G00364,5,固定短语,X也X不得，Y也Y不得,"Cấu trúc X也X不得，Y也Y不得 diễn tả tình huống không thể thực hiện hành động nào trong hai hành động được đề cập, thường do hoàn cảnh hoặc giới hạn nhất định.",对这个孩子他实在没办法，打也打不得，说也说不得。\n听到消息后，她哭也哭不得，笑也笑不得。
+G00365,5,固定短语,X是它，Y也是它,Cấu trúc X是它，Y也是它 dùng để nhấn mạnh rằng dù nhìn nhận sự việc theo hai phương diện hoặc kết quả khác nhau thì đối tượng vẫn không thay đổi. Có thể thể hiện thái độ chấp nhận hoặc khẳng định lựa chọn.,好是它，坏也是它，你没有别的选择。\n成功是它，失败也是它，这个决定我绝对不后悔。
+G00366,5,固定短语,X着也是X着,Cấu trúc X着也是X着 dùng để nói rằng một hành động hoặc trạng thái vốn đang diễn ra hay được duy trì cũng không tạo ra lợi ích đáng kể; vì vậy người nói đề xuất tận dụng thời gian hoặc tình huống đó để làm việc khác.,闲着也是闲着，明天我准备把车库打扫一遍。\n那辆旧车你很少开，放着也是放着，要不卖了吧。
+G00367,5,固定短语,不管怎样说,"Cụm 不管怎么说 dùng để tổng kết, nhấn mạnh hoặc đưa ra nhận xét cuối cùng sau khi cân nhắc nhiều khía cạnh. Có thể hiểu là dù nói thế nào đi nữa hoặc xét cho cùng.",不管怎么说，健康才是最重要的，要注意身体。\n不管怎么说，用打骂的方法教育孩子是不对的。
+G00368,5,固定短语,真有你/他/她的,"Cấu trúc 真有你/他/她的 dùng để bày tỏ sự ngạc nhiên, thán phục hoặc đôi khi trách móc trước hành động hay khả năng đặc biệt của một người. Sắc thái phụ thuộc vào ngữ cảnh và giọng điệu.",真有你的，这么难的题目都做对了！\n真有他的，一个人爬上了这么高的山！\n真有她的，在这么吵的地方都能睡着！
+G00369,5,固定短语,X什么X,"Cấu trúc X什么X dùng để phản đối, trách móc hoặc ngăn cản một hành động đang diễn ra. Việc lặp lại động từ kết hợp với 什么 tạo sắc thái chất vấn hoặc không đồng tình.",吵什么吵，公共场所禁止大声说话！\n玩什么玩，作业还没写完呢！
+G00370,5,固定短语,什么X不X（的）,"Cấu trúc 什么X不X（的） dùng để phủ nhận sự cần thiết của một cách nói hoặc hành động mang tính khách sáo, thường nhằm thể hiện sự thân mật và cho rằng điều đó không đáng phải bận tâm.",什么谢不谢的，我们之间不用这么客气。\n什么麻烦不麻烦的，朋友之间互相帮忙是应该的。
+G00371,5,固定短语,不X白不X,"Cấu trúc 不X白不X diễn tả ý rằng nếu có cơ hội hoặc điều kiện thuận lợi thì nên tận dụng, nếu không sẽ bỏ phí. Cấu trúc thường mang sắc thái khuyến khích hoặc nhấn mạnh việc không nên bỏ lỡ cơ hội.",音乐会的门票是客户赠送的，咱们不听白不听。\n这件衣服难得打折，不买白不买。
+G00372,5,固定短语,X来X去，都是/就是……,Cấu trúc X来X去 dùng để diễn tả một hành động được lặp đi lặp lại hoặc kéo dài qua nhiều lần nhưng kết quả cuối cùng không thay đổi hoặc không có tiến triển đáng kể.,听来听去，都是一些差不多的意见。\n大家商量来商量去，就是想不出什么好办法。
+G00373,5,固定短语,动词+什么（就）是什么,"Cấu trúc động từ + 什么（就）是什么 biểu thị việc chấp nhận hoặc làm theo đúng điều người khác nói, yêu cầu hoặc quy định, không tự ý thay đổi theo ý mình. Thường dùng để nhấn mạnh sự tuân thủ.",孩子长大了，不像以前，父母说什么就是什么。\n工作要按照公司的规定执行，不能你想什么就是什么。
+G00374,5,状语,多项状语,"Nhiều trạng ngữ có thể cùng xuất hiện trong một câu để bổ nghĩa cho động từ hoặc cụm động từ. Chúng có thể lần lượt biểu thị mục đích, thời gian, địa điểm, chủ thể thực hiện, cách thức hoặc mức độ của hành động.",他为了锻炼身体每天早上在公园里跑步。\n他昨天晚上一个人在图书馆认真地复习了三个小时。
+G00375,5,补语,动词+得/不得,"Bổ ngữ khả năng, biểu thị khả năng thực hiện hành động hoặc đạt được kết quả trong một điều kiện nhất định.",伤害人的玩笑可开不得。\n这院是出得还是出不得，得先问问医生的建议。\n写论文这件事情急不得，你得多看多想。
+G00376,5,补语,形容词/心理动词+得+不得了,"Bổ ngữ mức độ, nhấn mạnh mức độ cao hoặc đặc biệt của trạng thái, cảm xúc.",收到大学的录取通知书，她激动得不得了。\n听到父亲被送去急诊的消息，她担心得不得了。
+G00377,5,补语,趋向补语的引申用法：表示状态意义：动词/形容词+下来/下去/起来/过来/过去,"Bổ ngữ xu hướng được dùng theo nghĩa mở rộng để biểu thị sự bắt đầu, tiếp diễn hoặc biến đổi trạng thái.",听着窗外的雨声，我的心慢慢地平静下来了。\n不知道是什么原因，他的声音渐渐低了下去。\n该睡觉了，快把你的玩具收拾起来。\n在医生们的努力下，病人终于醒过来了。\n经过一天的长途旅行，大家都很累，一上车就纷纷睡过去了。
+G00378,5,补语,动词/形容词+得+动词短语,"Bổ ngữ trạng thái, dùng để bổ sung thông tin về trạng thái, cách thức hoặc tình huống liên quan đến hành động.",孩子们玩儿得忘了时间，直到天黑才回家。\n面对自己喜欢的明星，他紧张得说不出话。
+G00379,5,补语,动词/形容词+得+主谓短语,"Bổ ngữ trạng thái, dùng để bổ sung thông tin về trạng thái, cách thức hoặc tình huống liên quan đến hành động.",他跑得全身是汗，终于按时到了公司。\n天气热得大家都不想出门。
+G00380,5,补语,动词/形容词+得+固定短语,"Bổ ngữ trạng thái, dùng để bổ sung thông tin về trạng thái, cách thức hoặc tình huống liên quan đến hành động.",快上课了，他跑得上气不接下气。\n为了准备年夜饭，她累得满头大汗。
+G00381,5,特殊句型,表示存在、具有：主语+有+着+宾语,“有”字句3,尽管是兄弟，但是他们心里有着很深的矛盾。\n两国之间有着长期友好的关系。
+G00382,5,特殊句型,表示附着：主语+动词+有+宾语,“有”字句3,门关着，墙上挂有“暂停营业”的牌子。\n这本书的第一页写有作者的名字。
+G00383,5,特殊句型,主语+把+宾语+一+动词,“把”字句3,孩子把书包一扔，坐在地上哭了起来。\n经理把任务一说，员工们就开始干活了。
+G00384,5,特殊句型,主语+把+宾语1+动词+宾语2,“把”字句3,他把存款都买车了。\n我把父母给的生活费借朋友了。
+G00385,5,特殊句型,前后两个动词性词语具有因果、转折、条件关系,"Câu liên động, trong đó các cụm động từ có quan hệ về nguyên nhân, kết quả, điều kiện hoặc chuyển ý.",她丈夫生病住院了。（因果）\n王经理开会忘了带会议资料。（转折）\n面对快速变化的形势，我们应该尽快制定方案应对风险。（条件）
+G00386,5,特殊句型,A+形容词+B+数量补语,"Câu so sánh, sử dụng tính từ kết hợp với bổ ngữ số lượng để biểu thị mức độ chênh lệch giữa hai đối tượng.",他高我一头。\n姐姐重我两公斤。\n哥哥早我两年上学。
+G00387,5,特殊句型,主语+被/叫/让+宾语+给+动词+其他成分,"Câu bị động, sử dụng 被、叫、让 kết hợp với 给 để nhấn mạnh quan hệ tác động giữa các thành phần.",我新买的衣服被他给洗坏了。\n她的帽子叫风给吹跑了。\n对不起，这些资料让我给搞乱了。
+G00388,5,复句,……，便……,"Câu phức nối tiếp, biểu thị các hành động hoặc sự việc xảy ra theo trình tự.",领导还没讲完，他便提前离开了。\n他看我心情不好，便陪我聊了半天。\n我写完作业便和朋友一起出去玩儿了。
+G00389,5,复句,或是……，或是……,"Câu phức lựa chọn, biểu thị sự lựa chọn giữa hai hoặc nhiều khả năng.",晚餐我或是吃面条儿，或是喝粥。\n假期他或是去海边度假，或是去爬山。
+G00390,5,复句,一旦……，就……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",一旦养成坏习惯，就很难改变。\n孩子一旦发烧，就赶快送去医院。
+G00391,5,复句,假如……，（就）……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",假如他们也同意，我们就按照计划开展工作。\n假如有一天你当了校长，你会制定什么规则？
+G00392,5,复句,万一……，（就）……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",万一他不配合，我们就要想其他办法。\n万一失败了，你考虑过后果吗？
+G00393,5,复句,……，要不然/不然……,"Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra.",公司需要敢想敢干的年轻人，要不然就很难有发展。\n还好我反应快，不然孩子就摔倒了。
+G00394,5,复句,……，因而……,"Câu phức nhân quả, biểu thị quan hệ nguyên nhân và kết quả giữa các vế câu.",她上课坚持认真听讲，因而成绩始终非常优秀。\n我和他认识很多年了，因而很了解他的性格。
+G00395,5,复句,……，可见……,"Câu phức nhân quả, biểu thị quan hệ nguyên nhân và kết quả giữa các vế câu.",这个项目完成得如此顺利，可见团队的合作非常有效。\n他每天都在图书馆学习，可见他对考试非常重视。
+G00396,5,复句,哪怕……，也……,"Câu phức nhượng bộ, thừa nhận một điều kiện hoặc tình huống nhưng vẫn khẳng định nội dung ở vế chính.",哪怕时间再紧张，也要按时完成任务。\n哪怕租金继续提高，也仍然有很多人愿意住在这里。
+G00397,5,复句,不但不/不但没有……，反而……,"Câu phức tăng tiến, trong đó vế sau bổ sung hoặc nhấn mạnh nội dung ở mức độ cao hơn vế trước.",他不但不改正错误，反而继续犯更大的错误。\n你这样做不但没有解决问题，反而增加了新问题。\n火不但没有灭，反而越来越大了。
+G00398,5,复句,不是……，还/还是……,"Câu phức tăng tiến, trong đó vế sau bổ sung hoặc nhấn mạnh nội dung ở mức độ cao hơn vế trước.",不是光有目标就可以，还要行动起来。\n这个问题不是我一个人就能解决的，还是需要大家积极配合。
+G00399,5,复句,……，为的是……,"Câu phức mục đích, biểu thị mục đích mà hành động hoặc sự việc hướng tới.",他每天早起锻炼，为的是保持健康。\n她每天都练习中文，为的是将来能够来中国留学。
+G00400,5,复句,没有……就没有……,"Câu phức rút gọn, biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần.",没有老师的努力付出就没有我们今天的成绩。\n没有汗水就没有收获。
+G00401,5,复句,不……不……,"Câu phức rút gọn, biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần.",不尝不知道，这种水果的味道果然很独特。\n毛病虽然不大，但还是应该修理一下，不修不安全。
+G00402,5,复句,再……也……,"Câu phức rút gọn, biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần.",这首歌再听多少遍也不会烦。\n困难再大也要坚持下去。
+G00403,6,类前缀,超—、多—、反—、无—、亚—、准—,Các tiền tố 超-、多-、反-、无-、亚-、准- đứng trước từ gốc để bổ sung hoặc thay đổi ý nghĩa. 超- biểu thị vượt mức; 多- biểu thị nhiều; 反- biểu thị sự đối lập hoặc ngược lại; 无- biểu thị không có; 亚- biểu thị cấp độ thấp hơn hoặc vị trí thứ cấp; 准- biểu thị trạng thái gần đạt hoặc được xem như một đối tượng nào đó.,没想到他竟然超水平发挥，最终赢得了这场比赛。\n这位演员的表演总能展现出多层次的人物心理。\n父母过分关注孩子的一举一动，会对孩子的成长起到反作用。\n公司所有电脑系统都经过了严格的安全检查，确保无病毒运行。\n新开发的商业区已经成为了城市亚中心，发展潜力巨大。\n小张和女朋友小李已经订婚了，小李现在是张家的准媳妇。
+G00404,6,类后缀,—化、—式、—型、—性,Các hậu tố -化、-式、-型、-性 đứng sau từ gốc để tạo từ mới. -化 biểu thị quá trình hoặc xu hướng biến đổi; -式 biểu thị phương thức hoặc kiểu; -型 biểu thị loại hình; -性 biểu thị tính chất hoặc đặc tính.,随着科技的发展，人们迎来了数字化时代。\n本课程采用专题式的教学方法，每课介绍一个专题。\n这种鱼是观赏型的，很多人把它们当做宠物。\n这款产品具备很好的便捷性，使用十分方便。
+G00405,6,代词,人家,"Đại từ nhân xưng, dùng để chỉ người hoặc đối tượng tham gia giao tiếp.",这是人家的东西，咱们不能随便拿。\n今天多亏了老张来帮忙，我们得好好感谢人家。
+G00406,6,量词,专用名量词：串、滴、枝、扇、卷1、卷2,"Danh lượng từ, dùng kết hợp với số từ để biểu thị số lượng của người, sự vật hoặc đơn vị.",这串项链是丈夫送给我的订婚礼物。\n你试试往碗里加几滴醋，说不定味道会更好。\n下班回家的路上，妈妈买了几枝玫瑰花。\n听了他的话，我心里就像打开了一扇窗，突然亮了。\n你把桌子上那卷胶带递给我一下。\n这套书分为上、中、下三卷。
+G00407,6,量词,番,"Động lượng từ, dùng để biểu thị số lần hoặc số lượt một hành động xảy ra.",经过一番激烈的争论，我们最终达成了一致。
+G00408,6,副词,特、异常、较为,"Phó từ chỉ mức độ, bổ sung ý nghĩa về mức độ hoặc cường độ cho tính từ, động từ hoặc thành phần khác.",听说我获得了奖学金，同学们都特羡慕。\n相声是一种幽默的艺术，特有意思。\n改进后的仪器操作异常便捷。\n今年夏天异常炎热。\n这本小说较为客观地反映了当时的社会现实。\n专家们一致认为这项研究的设计较为合理。
+G00409,6,副词,净、一同、大都,"Phó từ chỉ phạm vi, biểu thị phạm vi bao quát, giới hạn hoặc đối tượng được đề cập.",我们净忙着说话，甚至忘了给客人倒茶。\n那位老师的书房里净是外文书。\n我明天在大厅等你，咱们一同出发。\n人们聚集在广场上，一同迎接新年的到来。\n公园里散步的老年人大都是附近的居民。\n假期时，这里的人们大都选择去海边度假。
+G00410,6,副词,一时、不时、仍旧、依旧、一向,"Phó từ chỉ thời gian, biểu thị thời điểm, thời gian hoặc trình tự xảy ra của hành động.",他一时紧张，忘记要说什么了。\n面对眼前的比赛结果，人们一时难以接受。\n她不时看看手机，等待着朋友的消息。\n隔壁房间不时传来一阵笑声。\n实验失败了，但他们没有放弃，仍旧坚持干下去。\n他很努力地练习发音，但仍旧说得不太标准。\n他们带着孩子又跑了几家医院，但依旧没有得到明确的诊断。\n二十多年过去了，她依旧那么美丽动人。\n作为老师，她一向严格要求自己的学生。\n他一向喜欢跟朋友开玩笑。
+G00411,6,副词,一再、再三,"Phó từ chỉ tần suất, biểu thị mức độ thường xuyên hoặc số lần hành động xảy ra.",出发前老师一再提醒大家带上护照，可我还是忘了。\n王经理一再强调这个项目对于公司至关重要。\n他再三考虑要不要放弃工作的机会。\n小张再三向领导解释他上班迟到的原因。
+G00412,6,副词,不禁、赶忙、特地、特意、偷偷,"Phó từ chỉ phương thức, biểu thị cách thức hoặc thái độ thực hiện hành động.",听到这可怕的消息，我的心不禁凉了。\n听完她的演讲，大家不禁鼓起掌来。\n上课铃一响，学生们就赶忙跑回了教室。\n听到有人求助，他赶忙过去帮忙。\n回国当天，朋友特地开车把我送到了机场。\n为了掌握实际情况，政府特地组织专家团队到当地开展调查。\n这些书是我特意请朋友从国外买回来的。\n我特意为您准备了一份礼物，请您一定收下。\n小女孩偷偷把糖装进了口袋。\n他偷偷把那件事告诉了老师。
+G00413,6,副词,未必,"Phó từ phủ định, dùng để phủ định hành động, trạng thái hoặc nội dung được diễn đạt.",她最近工作很忙，未必有时间回老家。\n有钱就一定会幸福吗？那也未必。
+G00414,6,副词,恰好、倒是、干脆、明明、总算,"Phó từ ngữ khí, bổ sung sắc thái biểu cảm, đánh giá hoặc thái độ của người nói.",婚礼那天恰好是新娘的生日。\n下周六我恰好有时间，咱们可以一起去爬山。\n你计划得倒是很好，可是你能做到吗？\n这部漫画的内容一般，绘画风格倒是生动有趣。\n既然双方不愿意合作，干脆就不要浪费时间再谈了。\n你今天这么累，干脆早点休息，明天再工作吧！\n你明明不胖，为什么总嫌自己胖呢？\n明明是他做错了事，凭什么让我向他道歉？\n我们在路边等了很久，总算有位好心的司机让我们搭车回到了学校。\n连着下了一周小雨，今天总算迎来了一个晴天。
+G00415,6,介词,于,Giới từ dùng để dẫn ra thời gian hoặc địa điểm liên quan đến hành động.,这所学校成立于1950年。\n他已于上月离京。
+G00416,6,介词,至于,Giới từ dùng để dẫn ra đối tượng mà hành động hoặc trạng thái hướng tới.,刚来中国时，我既听不懂也说不清楚，至于写作和阅读，就更不行了。\n新产品已经开始生产了，至于销售时间和价格，现在还不能确定。
+G00417,6,介词,因,"Giới từ dùng để biểu thị mục đích hoặc nguyên nhân của hành động, sự việc.",因天气原因，运动会延期至周六举行。\n他因迟到而错过了这次面试。
+G00418,6,介词,除,Biểu thị ý nghĩa loại trừ một đối tượng hoặc phạm vi khỏi nội dung được đề cập.,除特殊情况外，不得随意离开工作岗位。\n除申请表以外，申请人还应提交一份个人简历。
+G00419,6,连词,不料,"Dùng để liên kết các phân câu hoặc câu, thể hiện quan hệ logic giữa các nội dung.",我本来打算在房间看书，不料突然停电了，我只好去图书馆。\n我以为两个孩子能一起好好玩儿，不料他俩刚一见面就吵起来了。
+G00420,6,助词,所,"Trợ từ kết cấu, dùng để biểu thị quan hệ ngữ pháp giữa các thành phần trong cụm từ hoặc câu.",这部电影是根据人们所熟悉的故事改编的。\n你所了解的情况只是一小部分。
+G00421,6,助词,啦、嘛,"Trợ từ ngữ khí, thường đặt ở cuối câu để biểu thị thái độ, cảm xúc hoặc mục đích giao tiếp.",我昨天就已经把作业交给老师啦！\n这些文件对于公司至关重要，你可千万别弄丢啦！\n我只是开个玩笑，你不要太认真嘛。\n要是觉得累了，就走慢一点儿嘛。
+G00422,6,助词,也好,"Trợ từ có chức năng ngữ pháp đặc thù, cần căn cứ vào từng cấu trúc cụ thể để xác định cách sử dụng.",孩子们假期不回来也好，我可以好好休息休息了。\n手机也好，电脑也好，长时间使用都会造成眼睛疲劳。
+G00423,6,固定短语,A这A那,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",小孩子总是喜欢拉着父母问这问那。\n既然决定了就大胆去做吧，不要总是想这想那。
+G00424,6,固定短语,左A右B,"Cấu trúc cố định gồm bốn thành phần hoặc bốn âm tiết, thường được sử dụng như một cụm biểu đạt có ý nghĩa tương đối ổn định.",天还没亮，他就醒了，躺在床上左思右想，怎么也睡不着。\n她在商场里左挑右选，始终没买到一件满意的衣服。
+G00425,6,固定短语,好（不）容易,"好不容易 biểu thị việc đạt được hoặc hoàn thành một việc sau nhiều khó khăn, vất vả; thường mang nghĩa khó khăn lắm mới...",我好不容易才获得这次面试机会，一定不会轻易放弃。\n假期好不容易可以休息一下，你怎么还要去公司加班？
+G00426,6,固定短语,那倒（也）是,"那倒（也）是 dùng để thể hiện sự đồng tình hoặc thừa nhận một phần nhận định của người khác, thường mang nghĩa điều đó thì đúng là như vậy.",假如去那家公司工作能为你提供更多的发展空间，那倒也是个不错的选择。\n要是你能从失败中吸取教训，那倒也是件值得高兴的事。
+G00427,6,固定短语,算了,"算了 dùng để biểu thị quyết định không tiếp tục một việc, bỏ qua hoặc chấp nhận tình huống hiện tại, tùy ngữ cảnh.",这些旧衣服扔掉算了，反正也不会再穿了。\n雪下得这么大，估计不会有客人来了，干脆早点儿关门算了。
+G00428,6,固定短语,得了,"得了 có thể dùng để biểu thị sự kết thúc, chấp nhận hoặc ngăn người khác tiếp tục một hành động; ý nghĩa cụ thể phụ thuộc vào ngữ cảnh.",得了，别再想了，结果不可能改变了。\n你这么喜欢这本书，干脆送给你得了。
+G00429,6,固定短语,A一+量词，B一+量词,"Cấu trúc A一+量词，B一+量词 dùng để mô tả các hành động hoặc lời nói diễn ra liên tiếp, xen kẽ giữa nhiều người hoặc nhiều phía. Thường gặp trong cách diễn đạt như 左一句、右一句 hoặc 你一言、我一语.",我们左一句、右一句地安慰，她才终于不哭了。\n大家你一言，我一语，很快就商量出了解决的办法。
+G00430,6,固定短语,东一A，西一A,"Cấu trúc 东一A，西一A dùng để mô tả sự vật xuất hiện rải rác ở nhiều vị trí khác nhau, không tập trung hoặc không được sắp xếp gọn gàng.",房间里的衣服东一件，西一件，扔得哪儿都是。\n最近他东一本，西一本地看了不少书。
+G00431,6,固定短语,到……为止,"Cấu trúc 到……为止 dùng để xác định giới hạn kết thúc của một khoảng thời gian, quá trình hoặc hành động. Thành phần đứng trước 为止 nêu mốc kết thúc hoặc phạm vi được tính đến.",到目前为止，双方已经达成了初步的合作。\n他把产品设计改了很多遍，一直到客户满意为止。
+G00432,6,固定短语,X到Y头上来了,"Cấu trúc X到Y头上来了 dùng để diễn tả một hành động hoặc vấn đề hướng trực tiếp đến một người, thường mang sắc thái bất ngờ, trách móc hoặc không hài lòng. 头上 ở đây nhấn mạnh đối tượng phải chịu tác động.",我把你当作好朋友，没想到你竟然骗到我头上来了。\n问题不是我造成的，怎么怪到我头上来了？
+G00433,6,固定短语,不X不……，一X……,"Cấu trúc 不X不……，一X…… dùng để nhấn mạnh rằng chỉ khi thực hiện một hành động thì người nói mới nhận ra, hiểu hoặc trải nghiệm được điều gì đó. Hai vế thể hiện sự đối lập giữa trước khi thực hiện và sau khi thực hiện hành động.",不学不知道，一学才知道汉字如此有魅力。\n这茶不尝不知道，一尝就喜欢上了。
+G00434,6,固定短语,好你个X,"Cấu trúc 好你个X dùng để gọi hoặc nhắc đến một người với sắc thái cảm xúc mạnh như trách móc, ngạc nhiên, trêu chọc hoặc tức giận. Ý nghĩa cụ thể phụ thuộc vào ngữ cảnh và giọng điệu.",好你个老张，原来是你在背后说我坏话！\n好你个骗子，赶紧把钱还给我，否则我就报警。
+G00435,6,固定短语,早（也）不X，晚（也）不X,"Cấu trúc 早（也）不X，晚（也）不X dùng để nhấn mạnh một sự việc xảy ra không đúng thời điểm mong muốn, thường thể hiện sự trùng hợp bất ngờ hoặc lời than phiền.",早不来，晚不来，我正要出门你来了。\n早也不下雨，晚也不下雨，比赛刚一开始就下起来了。
+G00436,6,固定短语,看/瞧+把+宾语（施事）+X得,"Cấu trúc 看/瞧+把+đối tượng+X得 dùng để nhấn mạnh trạng thái hoặc mức độ cảm xúc của một người thông qua kết quả được biểu hiện. Thường mang sắc thái cảm thán, nhận xét hoặc trêu chọc.",瞧把他兴奋得，简直像个孩子一样。\n看把你笑得，腰都直不起来了。
+G00437,6,固定短语,放着X不Y,"Cấu trúc 放着X不Y dùng để chỉ việc bỏ qua một đối tượng hoặc điều kiện sẵn có mà không sử dụng, chăm sóc hoặc xử lý nó, trong khi lại lựa chọn một hành động khác. Thường mang sắc thái trách móc hoặc phê bình.",你为什么放着自己的车不开，跑去借别人的车？\n他放着孩子不管，整天跑出去玩儿。
+G00438,6,固定短语,X了就X了，（没）有……,"Cấu trúc X了就X了，（没）有…… dùng để thể hiện thái độ chấp nhận một sự việc đã xảy ra, cho rằng không cần tiếp tục lo lắng, tiếc nuối hoặc bận tâm quá nhiều về nó.",他已经是大人了，走了就走了，有什么好担心的？\n东西丢了就丢了，没有什么好可惜的。
+G00439,6,固定短语,这/那也不X，那/这也不Y,"Cấu trúc 这/那也不X，那/这也不Y dùng để mô tả thái độ liên tục không hài lòng hoặc từ chối nhiều lựa chọn khác nhau. Thường thể hiện sự khó tính, do dự hoặc không biết rõ mình muốn gì.",这也不好吃，那也不好吃，你干脆饿着吧。\n那也不喜欢，这也不满意，你到底想找什么样的工作？
+G00440,6,固定短语,X归X，Y归Y,"Cấu trúc X归X，Y归Y dùng để phân biệt hai sự việc hoặc hai phương diện, nhấn mạnh rằng mỗi bên có tính chất và phạm vi riêng, không nên đánh đồng chúng.",打归打，骂归骂，父母永远是最疼你的人。\n计划归计划，行动归行动，二者并不完全一样。
+G00441,6,固定短语,看你X的/瞧他X的,"Cấu trúc 看你X的/瞧他X的 dùng để nhận xét trạng thái hoặc biểu hiện của một người, thường mang sắc thái trêu chọc, trách yêu, ngạc nhiên hoặc phê bình.",我跟你开玩笑呢！看你吓的！\n不就是得了奖学金吗？瞧他得意的！
+G00442,6,补语,动词/形容词+透+了,"Bổ ngữ mức độ, nhấn mạnh mức độ hoặc kết quả đạt đến giới hạn cao của trạng thái.",我恨透了那些不诚信的商家。\n大雨把他身上的衣服全都淋透了。
+G00443,6,特殊句型,主语（非生物体）+把+宾语+动词+其他成分,“把”字句4,阳光把大地染成了红色。\n音乐声把游客都吸引过去了。
+G00444,6,特殊句型,主语+把+宾语（施事）+动词+其他成分,“把”字句4,孩子把妈妈气得睡不着觉。\n她讲述的故事把大家感动哭了。
+G00445,6,复句,一时……一时……,"Câu phức đẳng lập, gồm các vế câu có quan hệ ngang hàng hoặc bổ sung thông tin cho nhau.",最近产品价格不太稳定，一时上升一时下降。\n这段时间天气变化快，一时冷一时热。
+G00446,6,复句,要么……，要么……,"Câu phức lựa chọn, biểu thị sự lựa chọn giữa hai hoặc nhiều khả năng.",我平常要么点外卖，要么自己做，很少去食堂吃。\n那家饭馆的菜要么太咸，要么太辣，我都不爱吃。
+G00447,6,复句,虽……，但/可/却/也……,"Câu phức chuyển ý, biểu thị sự đối lập hoặc tương phản giữa hai vế câu.",比赛虽未取得胜利，但我们收获了宝贵的经验。\n这道题虽有难度，可做出来的同学不在少数。\n文章虽短，读后却使人充满力量。\n她心里虽不喜欢，也坚持来上班了。
+G00448,6,复句,凡是……，都……,"Câu phức điều kiện, biểu thị điều kiện cần có để một sự việc hoặc hành động xảy ra.",凡是有机会，他都会积极争取。\n凡是错误的行为，我们都应该纠正。
+G00449,6,复句,除非……，才……,"Câu phức điều kiện, biểu thị điều kiện cần có để một sự việc hoặc hành động xảy ra.",除非你亲自邀请，他才有可能同意参加。\n除非是紧急情况，我才会向他求助。
+G00450,6,复句,除非……，否则/不然……,"Câu phức điều kiện, biểu thị điều kiện cần có để một sự việc hoặc hành động xảy ra.",除非他承认错误并向我道歉，否则我不会原谅他。\n除非你说清楚是什么事情，不然我不可能同意帮忙。
+G00451,6,复句,就算……，也……,"Câu phức nhượng bộ, thừa nhận một điều kiện hoặc tình huống nhưng vẫn khẳng định nội dung ở vế chính.",就算再累，我也要坚持完成任务。\n就算他做错了，你也要注意教育方法。
+G00452,6,复句,……，以便……,"Câu phức mục đích, biểu thị mục đích mà hành động hoặc sự việc hướng tới.",请留下您的联系方式，以便日后联系。\n当地政府计划调整地铁的发车时间，以便更多的乘客能够乘坐公共交通。

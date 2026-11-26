@@ -1,0 +1,310 @@
+[
+  {
+    "hsk_level": 3,
+    "topic": "Từ vựng",
+    "question_type": "Điền từ",
+    "question": "我喝了____后感到很疲劳。",
+    "options": {
+      "A": "一碗面条",
+      "B": "一杯水",
+      "C": "一杯咖啡",
+      "D": "一杯酒"
+    },
+    "correct_option": "C",
+    "explanation": "“喝了” cho thấy hành động uống, sau đó là kết quả là “感到很疲劳”."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____你先吃点儿什么再走吧?",
+    "options": {
+      "A": "我",
+      "B": "你",
+      "C": "我々",
+      "D": "他们"
+    },
+    "correct_option": "B",
+    "explanation": "“你” là đại từ nghi vấn, dùng để hỏi về người."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Từ vựng",
+    "question_type": "Chọn câu đúng",
+    "question": "____是东北的特产。",
+    "options": {
+      "A": "饺子",
+      "B": "面条",
+      "C": "米饭",
+      "D": "灯"
+    },
+    "correct_option": "A",
+    "explanation": "“饺子” là một loại thực phẩm đặc sản của Đông Bắc Trung Quốc."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "黑板上的字你____吗?",
+    "options": {
+      "A": "看见",
+      "B": "打开",
+      "C": "离开",
+      "D": "完成"
+    },
+    "correct_option": "A",
+    "explanation": "“看见” là một động từ ly hợp, biểu thị hành động quan sát."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Từ vựng",
+    "question_type": "Chọn câu đúng",
+    "question": "月亮是____。",
+    "options": {
+      "A": "地球",
+      "B": "太空",
+      "C": "月亮",
+      "D": "星球"
+    },
+    "correct_option": "C",
+    "explanation": "“月亮” là một từ vựng, biểu thị mặt trăng."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Từ vựng",
+    "question_type": "Điền từ",
+    "question": "____是我的最爱。",
+    "options": {
+      "A": "冰激凌",
+      "B": "出生",
+      "C": "菜单",
+      "D": "开会"
+    },
+    "correct_option": "A",
+    "explanation": "“____是我的最爱” cho thấy đây là một câu hỏi về sở thích của người nói."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我跟他一样喜欢____。",
+    "options": {
+      "A": "吃饭",
+      "B": "看电影",
+      "C": "听音乐",
+      "D": "读书"
+    },
+    "correct_option": "C",
+    "explanation": "Câu so sánh sử dụng cấu trúc “跟……一样” để biểu thị sự hơn kém hoặc tương đồng."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu đúng",
+    "question": "____表示动作的伴随：动词1+着+动词2。",
+    "options": {
+      "A": "当然",
+      "B": "以前",
+      "C": "着",
+      "D": "突然"
+    },
+    "correct_option": "C",
+    "explanation": "Câu liên động sử dụng cấu trúc “着” để biểu thị động 作的伴随."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "虽然我很累，但是我____到图书馆。",
+    "options": {
+      "A": "不去",
+      "B": "去",
+      "C": "不想",
+      "D": "不可能"
+    },
+    "correct_option": "B",
+    "explanation": "Câu phức chuyển ý "
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Điền từ",
+    "question": "为了____，我们应该坚持锻炼。",
+    "options": {
+      "A": "身体健康",
+      "B": "工作",
+      "C": "学习",
+      "D": "生活"
+    },
+    "correct_option": "A",
+    "explanation": "为了身体健康 là mục đích của hành động坚持锻炼."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "别人能学好，我也一定能学好。",
+    "options": {
+      "A": "我也一定能学好",
+      "B": "别人能学好",
+      "C": "我不太清楚",
+      "D": "你问问别人吧"
+    },
+    "correct_option": "A",
+    "explanation": "Câu này sử dụng ngữ pháp 别人、咱们 để chỉ người hoặc đối tượng tham gia giao tiếp."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Đọc hiểu ngắn",
+    "question": "来中国以前，我____句汉语也不会说。",
+    "options": {
+      "A": "不会说",
+      "B": "会说",
+      "C": "可以说",
+      "D": "不需要说"
+    },
+    "correct_option": "A",
+    "explanation": "Câu này sử dụng cấu trúc 一……也/都+不/没…… để nhấn mạnh sự phủ định hoàn toàn. Trong trường hợp này, người nói đang nói về việc họ không nói tiếng Trung trước khi đến Trung Quốc."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "对我来说，学习汉语____。",
+    "options": {
+      "A": "很有意思",
+      "B": "很难",
+      "C": "很有帮助",
+      "D": "很有趣"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 对……来说 dùng để nêu quan điểm hoặc đánh giá của một người đối với sự việc nào đó."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "他才到家，还____。",
+    "options": {
+      "A": "没有吃饭",
+      "B": "还没有吃饭",
+      "C": "已经吃饭",
+      "D": "还没有睡觉"
+    },
+    "correct_option": "B",
+    "explanation": "Phó từ chỉ thời gian, biểu thị thời điểm, thời gian hoặc trình tự xảy ra của hành động."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "这个问题其实____。",
+    "options": {
+      "A": "很简单",
+      "B": "很难",
+      "C": "很有帮助",
+      "D": "很有趣"
+    },
+    "correct_option": "A",
+    "explanation": "“是……的”句2 dùng để nhấn mạnh quan điểm hoặc đánh giá của một người đối với sự việc nào đó."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "根据____，我们必须参加明天的会议。",
+    "options": {
+      "A": "要求",
+      "B": "兴趣",
+      "C": "能力",
+      "D": "时间"
+    },
+    "correct_option": "A",
+    "explanation": "Giới từ \"根据\" được dùng để biểu thị phương tiện, căn cứ hoặc cơ sở thực hiện hành động. Trong câu hỏi này, \"根据\" được dùng để biểu thị phương tiện để xác định lý do phải tham gia cuộc họp."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "对我来说，____。",
+    "options": {
+      "A": "学习汉语很有意思",
+      "B": "学习汉语很有用",
+      "C": "学习汉语很有趣",
+      "D": "学习汉语很难"
+    },
+    "correct_option": "C",
+    "explanation": "对我来说，学习汉语很有趣 là một nhận xét về quan điểm của người nói về việc học tiếng Trung."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "看来是指根据已知信息或情况对某事物的判断。",
+    "options": {
+      "A": "是指某人对某事物的看法",
+      "B": "是指根据已知信息或情况对某事物的判断",
+      "C": "是指某人对某事物的态度",
+      "D": "是指某人对某事物的看法和态度"
+    },
+    "correct_option": "B",
+    "explanation": "“看来” là từ biểu thị sự phán đoán hoặc nhận xét của người nói dựa trên thông tin, tình hình đã biết, thường mang nghĩa xem ra hoặc có vẻ như."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "如果你需要帮忙，就给我打电话。",
+    "options": {
+      "A": "如果你需要帮忙，我会给你打电话",
+      "B": "如果你需要帮忙，就给我打电话",
+      "C": "如果你需要帮忙，我会帮你",
+      "D": "如果你需要帮忙，我不会帮你"
+    },
+    "correct_option": "B",
+    "explanation": "Câu phức giả thiết, biểu thị một điều kiện giả định và kết quả có thể xảy ra."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "从这儿过去，大概需要多长时间？",
+    "options": {
+      "A": "需要多长时间",
+      "B": "需要吃药",
+      "C": "需要喝水",
+      "D": "需要休息"
+    },
+    "correct_option": "A",
+    "explanation": "Câu này sử dụng ngữ pháp 需要 (năng nguyện) để biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "桌子上的作业被拿走了。",
+    "options": {
+      "A": "桌子上的作业",
+      "B": "被拿走了",
+      "C": "作业被拿走了",
+      "D": "桌子被拿走了"
+    },
+    "correct_option": "C",
+    "explanation": "Câu này sử dụng ngữ pháp chủ ngữ + bị + động từ + các thành phần khác để biểu thị chủ thể chịu tác động của hành động."
+  },
+  {
+    "hsk_level": 3,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "他大概已经回家了。",
+    "options": {
+      "A": "他大概",
+      "B": "已经回家了",
+      "C": "他回家了",
+      "D": "他大概回家了"
+    },
+    "correct_option": "D",
+    "explanation": "Câu này sử dụng ngữ pháp phó từ tình thái để biểu thị phỏng đoán, đánh giá, mức độ chắc chắn hoặc thái độ của người nói."
+  }
+]

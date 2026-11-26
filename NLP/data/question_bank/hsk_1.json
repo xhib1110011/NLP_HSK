@@ -1,0 +1,324 @@
+[
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "请问你吃过____?",
+    "options": {
+      "A": "饺子",
+      "B": "电话",
+      "C": "公司",
+      "D": "学习"
+    },
+    "correct_option": "A",
+    "explanation": "请问是 một dạng câu hỏi, và 饺子 là một loại thực phẩm, vì vậy đáp án là 饺子."
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "你觉得____?",
+    "options": {
+      "A": "雪",
+      "B": "出租车",
+      "C": "家",
+      "D": "茶"
+    },
+    "correct_option": "A",
+    "explanation": "Câu hỏi này sử dụng ngữ pháp "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Từ vựng",
+    "question_type": "Điền từ",
+    "question": "我周末常去____看电影。",
+    "options": {
+      "A": "学校",
+      "B": "电影院",
+      "C": "朋友家",
+      "D": "图书馆"
+    },
+    "correct_option": "B",
+    "explanation": "“周末” cho thấy đây là chủ nhật, "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____你好吗？",
+    "options": {
+      "A": "我好",
+      "B": "你好",
+      "C": "他们好",
+      "D": "我们好"
+    },
+    "correct_option": "B",
+    "explanation": "Câu hỏi này sử dụng từ "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我____忙，不能去电影院。",
+    "options": {
+      "A": "正在",
+      "B": "元",
+      "C": "好",
+      "D": "叫"
+    },
+    "correct_option": "A",
+    "explanation": "Trợ từ "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "王老师正在____电话呢。",
+    "options": {
+      "A": "打",
+      "B": "接",
+      "C": "正在打",
+      "D": "正在接"
+    },
+    "correct_option": "C",
+    "explanation": "Thể đang diễn ra, biểu thị hành động đang xảy ra tại một thời điểm."
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "对不起！____了。",
+    "options": {
+      "A": "我买了一些苹果。",
+      "B": "你学了多少个汉字？",
+      "C": "下雨了。",
+      "D": "你觉得____?"
+    },
+    "correct_option": "A",
+    "explanation": "Thể hoàn thành "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "他们____做什么？",
+    "options": {
+      "A": "正在",
+      "B": "在",
+      "C": "介宾",
+      "D": "用语气"
+    },
+    "correct_option": "A",
+    "explanation": "Phó từ "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Điền từ",
+    "question": "我____电影。",
+    "options": {
+      "A": "看",
+      "B": "唱",
+      "C": "坐",
+      "D": "会"
+    },
+    "correct_option": "A",
+    "explanation": "Tân ngữ là danh từ "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我可以____电影吗?",
+    "options": {
+      "A": "问",
+      "B": "看",
+      "C": "读",
+      "D": "吃"
+    },
+    "correct_option": "A",
+    "explanation": "“可以” là động từ năng nguyện, biểu thị khả năng, năng lực, mong muốn, ý định hoặc sự cần thiết thực hiện hành động. "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "电影院____电影?",
+    "options": {
+      "A": "在",
+      "B": "去",
+      "C": "边",
+      "D": "便宜"
+    },
+    "correct_option": "B",
+    "explanation": "Câu này sử dụng ngữ pháp "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我可以____电影吗？",
+    "options": {
+      "A": "很",
+      "B": "不",
+      "C": "很累",
+      "D": "很好吃"
+    },
+    "correct_option": "B",
+    "explanation": "Câu hỏi này hỏi về tình trạng của người nói, nên đáp án là "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____做什么？",
+    "options": {
+      "A": "我做",
+      "B": "他做",
+      "C": "我们做",
+      "D": "他们做"
+    },
+    "correct_option": "A",
+    "explanation": "Câu hỏi này hỏi về hành động của người được hỏi, và đáp án đúng là "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "电影院____电影？",
+    "options": {
+      "A": "上映",
+      "B": "下映",
+      "C": "播放",
+      "D": "拍摄"
+    },
+    "correct_option": "A",
+    "explanation": "Thể đang diễn ra, biểu thị hành động đang xảy ra tại một thời điểm. Trong trường hợp này, "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我____电影院。",
+    "options": {
+      "A": "去",
+      "B": "在",
+      "C": "看",
+      "D": "做"
+    },
+    "correct_option": "A",
+    "explanation": "Phó từ 再1 biểu thị tần suất, trong trường hợp này là "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____电影院？",
+    "options": {
+      "A": "我在看电影",
+      "B": "我在做饭",
+      "C": "我在学习",
+      "D": "我在工作"
+    },
+    "correct_option": "A",
+    "explanation": "Câu hỏi này sử dụng ngữ pháp "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我想____电影。",
+    "options": {
+      "A": "看",
+      "B": "做",
+      "C": "说",
+      "D": "吃"
+    },
+    "correct_option": "A",
+    "explanation": "“想” là một từ nối, biểu thị sự mong muốn. "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____上课?",
+    "options": {
+      "A": "我",
+      "B": "他们",
+      "C": "我们",
+      "D": "你"
+    },
+    "correct_option": "C",
+    "explanation": "Cụm chủ vị '我们' biểu thị hành động tham dự lớp học, phù hợp với ngữ cảnh '上课'."
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____电影?",
+    "options": {
+      "A": "我",
+      "B": "你",
+      "C": "他们",
+      "D": "电影院"
+    },
+    "correct_option": "D",
+    "explanation": "Câu hỏi này hỏi về địa điểm xem phim, nên đáp án đúng là 电影院."
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "她们____电影?",
+    "options": {
+      "A": "看",
+      "B": "做",
+      "C": "给",
+      "D": "学习"
+    },
+    "correct_option": "A",
+    "explanation": "Phó từ phủ định 不、没（有）、不要 không được dùng trong câu hỏi này. Thể đang diễn ra ……呢 biểu thị hành động đang xảy ra tại một thời điểm."
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "他们____电影?",
+    "options": {
+      "A": "看",
+      "B": "写",
+      "C": "想",
+      "D": "上"
+    },
+    "correct_option": "A",
+    "explanation": "“他们” là chủ ngữ, “____电影” là động từ, nên đáp án là “看见” (nhìn thấy)"
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "他们____电影？",
+    "options": {
+      "A": "看",
+      "B": "做",
+      "C": "吃",
+      "D": "睡"
+    },
+    "correct_option": "A",
+    "explanation": "Câu hỏi này hỏi về hành động của họ về phim, và đáp án là "
+  },
+  {
+    "hsk_level": 1,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "你____电影?",
+    "options": {
+      "A": "看",
+      "B": "做",
+      "C": "吃",
+      "D": "说"
+    },
+    "correct_option": "A",
+    "explanation": "“你” là chủ ngữ, “____” là động từ nghi vấn, "
+  }
+]

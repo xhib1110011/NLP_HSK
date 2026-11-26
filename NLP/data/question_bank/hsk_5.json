@@ -1,0 +1,282 @@
+[
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____真有你的，这么难的题目都做对了！",
+    "options": {
+      "A": "你",
+      "B": "他",
+      "C": "她",
+      "D": "他们"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 真有你/他/她的 dùng để bày tỏ sự ngạc nhiên, thán phục hoặc đôi khi trách móc trước hành động hay khả năng đặc biệt của một người."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "自从我结婚后，我____了很多地方旅行。",
+    "options": {
+      "A": "便去了",
+      "B": "一旦去了",
+      "C": "停留了",
+      "D": "离开了"
+    },
+    "correct_option": "A",
+    "explanation": "Giới từ \"自从\" được sử dụng để dẫn ra thời gian hoặc địa điểm liên quan đến hành động. Trong trường hợp này, \"自从我结婚后\" cho thấy hành động kết hôn đã xảy ra, sau đó là hành động đi du lịch."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____的礼物我收到了。",
+    "options": {
+      "A": "亲切的",
+      "B": "含有的",
+      "C": "婚礼的",
+      "D": "常识的"
+    },
+    "correct_option": "A",
+    "explanation": "Câu bị động, sử dụng được kết hợp với 给 để nhấn mạnh quan hệ tác động giữa các thành phần."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我新买的衣服____了。",
+    "options": {
+      "A": "被他给洗坏了",
+      "B": "叫风给吹跑了",
+      "C": "被他洗坏了",
+      "D": "叫风吹跑了"
+    },
+    "correct_option": "A",
+    "explanation": "Câu bị động sử dụng được/叫 kết hợp với 给 để nhấn mạnh quan hệ tác động giữa các thành phần."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "哪怕时间再紧张，也____完成任务。",
+    "options": {
+      "A": "要",
+      "B": "不",
+      "C": "可以",
+      "D": "必须"
+    },
+    "correct_option": "A",
+    "explanation": "Câu phức nhượng bộ, thừa nhận một điều kiện hoặc tình huống nhưng vẫn khẳng định nội dung ở vế chính. Trong trường hợp này, người nói khẳng định sẽ hoàn thành nhiệm vụ dù thời gian lại càng gấp rút."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "____用不着去医院。",
+    "options": {
+      "A": "这点儿小病",
+      "B": "这件事",
+      "C": "我自己",
+      "D": "大家都来帮忙"
+    },
+    "correct_option": "A",
+    "explanation": "用不着 biểu thị một việc không cần thiết phải thực hiện hoặc không cần sử dụng đến, có nghĩa là không cần."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "假如他们也同意，我们就____开发这个项目。",
+    "options": {
+      "A": "开发",
+      "B": "关闭",
+      "C": "继续",
+      "D": "放弃"
+    },
+    "correct_option": "A",
+    "explanation": "Câu giả thiết cho thấy nếu họ đồng ý, chúng ta sẽ phát triển dự án."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "前后两个动词性词语具有因果、转折、条件关系。例如：",
+    "options": {
+      "A": "她丈夫生病住院了。",
+      "B": "王经理开会忘了带会议资料。",
+      "C": "学校更新了教学设备，从而为学生提供了更好的学习环境。",
+      "D": "新娘看了一眼新郎，害羞得低下了头。"
+    },
+    "correct_option": "A",
+    "explanation": "Câu này minh họa quan hệ nguyên nhân, kết quả trong ngữ pháp."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "万一他不配合，我们就要想其他办法。",
+    "options": {
+      "A": "促进",
+      "B": "阻止",
+      "C": "继续",
+      "D": "放弃"
+    },
+    "correct_option": "A",
+    "explanation": "Câu trúc này sử dụng ngữ pháp "
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "她上课坚持认真听讲，因而____成绩始终非常优秀。",
+    "options": {
+      "A": "成绩始终非常优秀",
+      "B": "她上课坚持认真",
+      "C": "因而成绩始终非常优秀",
+      "D": "她上课坚持认真听讲"
+    },
+    "correct_option": "C",
+    "explanation": "Câu phức nhân quả "
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "如果我没有时间，____",
+    "options": {
+      "A": "我会去电影院",
+      "B": "我会写一封信",
+      "C": "我会做一件事情",
+      "D": "我会学习一门语言"
+    },
+    "correct_option": "C",
+    "explanation": "Câu trúc 没有……就没有…… biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "我每天早上七点____，然后去学校。",
+    "options": {
+      "A": "来来去去",
+      "B": "来来来去",
+      "C": "来去来去",
+      "D": "来来来来"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 来来去去 dùng để diễn tả một hành động được lặp đi lặp lại hoặc kéo dài qua nhiều lần nhưng kết quả cuối cùng không thay đổi hoặc không có tiến triển đáng kể."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "冬天尽量少吃雪糕，容易着凉。",
+    "options": {
+      "A": "用不着",
+      "B": "尽量",
+      "C": "少吃",
+      "D": "着凉"
+    },
+    "correct_option": "A",
+    "explanation": "Phó từ "
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "不管怎样说，_____是最重要的，要注意身体。",
+    "options": {
+      "A": "健康",
+      "B": "身体",
+      "C": "情感",
+      "D": "思想"
+    },
+    "correct_option": "A",
+    "explanation": "Câu trúc 不管怎样说 dùng để tổng kết, nhấn mạnh hoặc đưa ra nhận xét cuối cùng sau khi cân nhắc nhiều khía cạnh. Trong câu hỏi này, người nói nhấn mạnh rằng dù nói thế nào đi nữa, sức khỏe vẫn là điều quan trọng nhất."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "由____组成",
+    "options": {
+      "A": "彼此",
+      "B": "如此",
+      "C": "本",
+      "D": "彼此、如此、本"
+    },
+    "correct_option": "D",
+    "explanation": "Câu trúc 由____组成 biểu thị thành phần cấu tạo nên một tập thể, tổ chức hoặc sự vật. Trong trường hợp này, đáp án đúng là "
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "说A就A，______。",
+    "options": {
+      "A": "说干就干",
+      "B": "说走就走",
+      "C": "说好就好",
+      "D": "说错就错"
+    },
+    "correct_option": "B",
+    "explanation": "Cấu trúc nói A thì A, được sử dụng để miêu tả hành động hoặc tình trạng, trong đó A là hành động hoặc tình trạng được miêu tả. Ví dụ, nói A thì A có thể được sử dụng để miêu tả một người nói một cách thẳng thắn và trung thực."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "如果我没有时间，____。",
+    "options": {
+      "A": "我会去找人帮助",
+      "B": "我会自己完成",
+      "C": "我会取消计划",
+      "D": "我会加班"
+    },
+    "correct_option": "C",
+    "explanation": "Câu phức tăng tiến "
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "不但不/不但没有……，反而……",
+    "options": {
+      "A": "不但不改正错误，反而继续犯更大的错误。",
+      "B": "他不但不改正错误，反而继续犯更大的错误。",
+      "C": "你这样做不但没有解决问题，反而增加了新问题。",
+      "D": "他不但没有解决问题，反而增加了新问题。"
+    },
+    "correct_option": "A",
+    "explanation": "Câu phức tăng tiến được sử dụng để nhấn mạnh nội dung ở mức độ cao hơn vế trước."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "对这个孩子他实在没办法，____。",
+    "options": {
+      "A": "打也打不得",
+      "B": "说也说不得",
+      "C": "对他也对不得",
+      "D": "对这个孩子也对不得"
+    },
+    "correct_option": "A",
+    "explanation": "Câu trúc 不……不…… biểu thị quan hệ giữa các vế câu bằng cấu trúc cô đọng, thường lược bỏ một số thành phần."
+  },
+  {
+    "hsk_level": 5,
+    "topic": "Ngữ pháp",
+    "question_type": "Chọn câu hồi đáp",
+    "question": "什么X不X（的）?",
+    "options": {
+      "A": "用不着去医院",
+      "B": "的礼物我收到了",
+      "C": "真有你的，这么难的题目都做对了！",
+      "D": "不管怎样说，_____是最重要的，要注意身体"
+    },
+    "correct_option": "A",
+    "explanation": "Cấu trúc 什么X不X（的） dùng để phủ nhận sự cần thiết của một cách nói hoặc hành động mang tính khách sáo, thường nhằm thể hiện sự thân mật và cho rằng điều đó không đáng phải bận tâm."
+  }
+]
